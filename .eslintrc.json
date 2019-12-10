@@ -1,11 +1,25 @@
 {
+  "parser": "@typescript-eslint/parser",
   "parserOptions": {
-    "ecmaVersion": 2018,
-    "sourceType": "module",
+    "project": "./packages/*/tsconfig.json",
+    "tsconfigRootDir": ".",
     "ecmaFeatures": {
       "jsx": true
     }
   },
-  "env": { "mocha": true, "node": true, "es6": true },
-  "extends": ["eslint:recommended", "plugin:prettier/recommended", "prettier"]
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "env": { "browser": true, "jest": true, "node": true, "es6": true },
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:@typescript-eslint/recommended-requiring-type-checking",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "prettier/react"
+  ],
+  "plugins": ["@typescript-eslint", "react", "prettier", "jest"]
 }

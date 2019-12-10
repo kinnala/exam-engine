@@ -1,9 +1,6 @@
-dist/
 node_modules/
-output/
-public/
-test/fixtures
 packages/mexamples/exams
-packages/**/bundle
-packages/**/dist
-packages/**/node_modules/
+packages/*/dist
+jest.*.js
+postcss.config.js
+webpack.config.js

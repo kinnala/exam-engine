@@ -2,7 +2,6 @@ import { createOfflineExam } from '@digabi/exam-engine-rendering'
 import path from 'path'
 import yargs from 'yargs'
 
-// tslint:disable-next-line: no-unused-expression
 yargs
   .command(
     '$0 <examFilename> <outputDirectory>',

@@ -128,47 +128,61 @@
 
       <e:question>
         <e:question-title>
+          <e:localization lang="sv-FI">
+            Det sägs att skönheten ligger i betraktarens ögon. Beskriv kort vilket slag av uppfattning om skönhet ett
+            sådant skönhetsbegrepp representerar. Namnge uppfattningen.
+          </e:localization>
+        </e:question-title>
+        <e:question-instruction>
           <e:localization lang="fi-FI">
             Kyse on kokijaa korostavasta subjektiivisesta käsityksestä.<br/>
             1 pisteen vastauksessa kokelas kuvailee käsitystä oikein tai nimeää sen subjektiiviseksi.<br/>
             2 pisteen vastauksessa hän tekee molemmat.<br/>
             Relativismi voidaan hyväksyä oikeaksi kuvaukseksi, jos ja vain jos kokelas osaa rajata suhteel- lisuuden yksilöön.
           </e:localization>
-          <e:localization lang="sv-FI">
-            Det sägs att skönheten ligger i betraktarens ögon. Beskriv kort vilket slag av uppfattning om skönhet ett
-            sådant skönhetsbegrepp representerar. Namnge uppfattningen.
-          </e:localization>
-        </e:question-title>
+
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="2" />
       </e:question>
       <e:question>
         <e:question-title>
-          <e:localization lang="fi-FI">
-            Päinvastainen, objektiivinen käsitys korostaa kohteen merkitystä kauneudessa.<br/>
-            1 pisteen vastauksessa kokelas kuvailee käsitystä oikein tai nimeää sen objektiiviseksi. 2 pisteen vastauksessa hän tekee molemmat.
-          </e:localization>
           <e:localization lang="sv-FI">
             Det sägs att skönheten ligger i betraktarens ögon. Namnge och beskriv kort en motsatt uppfattning om
             skönhet.
           </e:localization>
 
         </e:question-title>
+        <e:question-instruction>
+          <e:localization lang="fi-FI">
+            Päinvastainen, objektiivinen käsitys korostaa kohteen merkitystä kauneudessa.<br/>
+            1 pisteen vastauksessa kokelas kuvailee käsitystä oikein tai nimeää sen objektiiviseksi. 2 pisteen vastauksessa hän tekee molemmat.
+          </e:localization>
+
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="2" />
 
       </e:question>
       <e:question>
         <e:question-title>
-          <e:localization lang="fi-FI">
-            Kokelas voi kuvailla millaisia hyvänsä kauniita asioita. Arvioinnissa olennaista on kyky perus- tellen määrittää kohde kauniiksi. Lähtökohtaisesti kokelas saa kummastakin valitsemastaan esimerkistä 0–3 pistettä. 2 pistettä esimerkistä edellyttää, että kohteen kauneutta on kuvat- tu ja perusteltu, miksi se on kaunis.
-          </e:localization>
           <e:localization lang="sv-FI">
             Välj två exempel på vackra saker och motivera kort varför de är vackra.
           </e:localization>
         </e:question-title>
+        <e:question-instruction>
+          <e:localization lang="fi-FI">
+            Kokelas voi kuvailla millaisia hyvänsä kauniita asioita. Arvioinnissa olennaista on kyky perus- tellen määrittää kohde kauniiksi. Lähtökohtaisesti kokelas saa kummastakin valitsemastaan esimerkistä 0–3 pistettä. 2 pistettä esimerkistä edellyttää, että kohteen kauneutta on kuvat- tu ja perusteltu, miksi se on kaunis.
+          </e:localization>
+
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="6" />
       </e:question>
       <e:question>
         <e:question-title>
+          <e:localization lang="sv-FI">
+            Diskutera vad skönhet är. Använd de exempel du gett i punkt 1.3. som hjälp.
+          </e:localization>
+        </e:question-title>
+        <e:question-instruction>
           <e:localization lang="fi-FI">
             <p>Joitain kauneutta koskevia filosofisia teorioita on yllä listattu lyhyesti. Niiden tuntemus on
               luonnollisesti ansio, mutta kokelas pääsee pitkälle erittelemällä valitsemiaan esimerkkejä ja
@@ -190,10 +204,8 @@
               ja objektiivisen painoarvoa niin yleisesti kuin valituissa esimerkkitapauksissakin.
             </p>
           </e:localization>
-          <e:localization lang="sv-FI">
-            Diskutera vad skönhet är. Använd de exempel du gett i punkt 1.3. som hjälp.
-          </e:localization>
-        </e:question-title>
+
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="10" />
 
       </e:question>
@@ -254,47 +266,38 @@
       </e:question-instruction>
       <e:question>
         <e:question-title>
-          <e:localization lang="fi-FI">
-            <p>Aineiston pohjalta Parmenideen lähtökohtana on olevan ja erityisesti ajan ykseys. Jos kaik- keus on yksi,
-              se ei voi muuttua, koska se tulisi silloin joksikin toiseksi eli ei-kaikkeudeksi, itse asiassa ei-olevaksi.
-              Videokatkelma korostaa erityisesti kaikkien ajan hetkien ykseyttä, joskin Parmenideen väitteet jäävät
-              siinä varsin kevyesti perustelluiksi. Parmenides itse perusteli näkemystään paljon enemmän. Yksi hänen
-              helposti ymmärrettävistä perusteluistaan on ei- olemassaolon kieltäminen (”ei-oleva ei ole”), josta
-              seuraa ajatus, että tyhjästä ei synny mi- tään.
-            </p>
-            <p>Vastauksella on merkkimäärärajoitus eikä sitä tarvitse arvioida esseenä.</p>
-            <p>2 pisteen vastauksessa kokelas esittää jonkin näkökohdan siitä, miksi muutos on Parme- nideen mukaan
-              mahdotonta.
-            </p>
-            <p>4 pisteen vastauksessa kokelas esittää ymmärrettävästi, miten olevan tai ajan ykseydestä seuraa
-              liikkeen mahdottomuus. Viittaaminen Parmenideen ajatuksiin, jotka eivät esiinny aineistossa, on ansio,
-              mutta sitä ei edellytetä täysiin pisteisiin.
-            </p>
-
-          </e:localization>
+          <e:localization lang="fi-FI"></e:localization>
           <e:localization lang="sv-FI">
             Förklara varför förändring är omöjlig enligt Proident. Utnyttja videoklippet
             i ditt svar.
           </e:localization>
         </e:question-title>
+        <e:question-instruction>
+
+          <p>Aineiston pohjalta Parmenideen lähtökohtana on olevan ja erityisesti ajan ykseys. Jos kaik- keus on yksi,
+            se ei voi muuttua, koska se tulisi silloin joksikin toiseksi eli ei-kaikkeudeksi, itse asiassa ei-olevaksi.
+            Videokatkelma korostaa erityisesti kaikkien ajan hetkien ykseyttä, joskin Parmenideen väitteet jäävät
+            siinä varsin kevyesti perustelluiksi. Parmenides itse perusteli näkemystään paljon enemmän. Yksi hänen
+            helposti ymmärrettävistä perusteluistaan on ei- olemassaolon kieltäminen (”ei-oleva ei ole”), josta
+            seuraa ajatus, että tyhjästä ei synny mi- tään.
+          </p>
+          <p>Vastauksella on merkkimäärärajoitus eikä sitä tarvitse arvioida esseenä.</p>
+          <p>2 pisteen vastauksessa kokelas esittää jonkin näkökohdan siitä, miksi muutos on Parme- nideen mukaan
+            mahdotonta.
+          </p>
+          <p>4 pisteen vastauksessa kokelas esittää ymmärrettävästi, miten olevan tai ajan ykseydestä seuraa
+            liikkeen mahdottomuus. Viittaaminen Parmenideen ajatuksiin, jotka eivät esiinny aineistossa, on ansio,
+            mutta sitä ei edellytetä täysiin pisteisiin.
+          </p>
+
+
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="5" />
       </e:question>
       <e:question>
         <e:question-title>
           <e:localization lang="fi-FI">
 
-            <p>Zenonin paradoksien tavoitteena on paljastaa ristiriitoja, jotka seuraavat oletuksesta, että liike ja/tai moneus ovat olemassa. Kuten videokatkelmassa selvästi esitetään, Zenonin para- doksit siis puolustavat Parmenideen monistista filosofiaa eli ykseysajattelua. Tämä tapahtuu johtamalla ristiriitaisia tai ilmeisen mahdottomia tuloksia liikkeen olemassaoloa tukevista oletuksista, jotka täytyy siksi hylätä.</p>
-            <p>Paradoksien yhteinen lähtökohta on ykseysajattelun vastakohta, että liike on mahdollista ja että aika (tai matkan osalta ulottuvuus) on jaettavissa useampaan osaan. Periaatteessa osia voi olla äärellinen tai ääretön määrä. Äärellinen määrä jakamattomia ajan hetkiä on kuiten- kin hyvin epäuskottava ajatus, vaikka nuoli-paradoksin voi ehkä jäsentää myös tältä pohjalta. Luontevin tulkinta aineistossa olevien paradoksien asetelmasta on, että aika/ulottuvuus koostuu äärettömästä määrästä hetkiä/pisteitä. Paradoksi seuraa siitä, että näiden het- kien/pisteiden mitta on joko nolla tai poikkeaa jonkin verran nollasta.</p>
-            <p>Aineiston ensimmäinen paradoksi – perinteisessä muodossaan Akhilleus ja kilpikonna – joh- taa paradoksiin, jos hetkien/pisteiden mitta eroaa nollasta. Ääretön määrä mitaltaan nollas- ta poikkeavia pisteitä/hetkiä tuottaa nyt äärettömän pitkän ajan/ulottuvuuden ja mitään etumatkaa ei koskaan voi saada kiinni, koska se on tosiasiassa ääretön. Nuoli-paradoksi puo- lestaan seuraa siitä, jos hetkien/pisteiden mitta on nolla. Silloin niissä ei voi tapahtua liikettä. Mutta koska kaikki aika koostuu vain hetkistä, joissa nuoli ei liiku, nuoli ei liiku lainkaan.</p>
-            <p>Joskus paradoksit on jaettu myös siten, että osa kohdistuu aikaan ja/tai ulottuvuuteen, joka on jatkuva ja osa aikaan ja/tai ulottuvuuteen, joka on epäjatkuva eli diskreetti. Erottelu voi luontevasti tulla esiin myös aineiston paradoksien tulkinnassa. Aineiston ensimmäinen Akhil- leus ja kilpikonna -paradoksi voidaan tällöin liittää jatkuvaan malliin, jossa jokaisen pisteen tai hetken välistä löytyy uusi. Nuoli-paradoksi puolestaan voitaisiin kuvata epäjatkuvalla mal- lilla. Videoaineistossa paradoksit vaikuttavat jäsentyvän enemmän edellisessä kappaleessa esitetyn ja helpommin ymmärrettävän pisteen/hetken mittaa koskevan vastakkainasettelun pohjalta. Kokelas voi kuitenkin tarkastella valitsemaansa paradoksia myös jatkuvuuden ja epäjatkuvuuden näkökulmasta. Muitakin vaihtoehtoisia tulkintalinjoja on esitetty.</p>
-            <p>Gottfried Leibniz (1646–1716) ja Isaac Newton (1642–1726) kehittivät differentiaali- ja in- tegraalilaskennan, joka tavallaan ratkaisee tehtävän paradoksit, joskin asian matemaattisen täsmällinen muotoilu vaati vielä ainakin Augustin Cauchyn (1789–1857) sarjojen sup- penemista ja Karl Weierstrassin (1815–1897) raja-arvoa koskevan työn. Filosofialle tyypilli- sesti Zenonin ongelmana voi pitää poissulkevaa vastakkainasettelua, että matka tai aika on joko nolla tai poikkeaa tietyn verran nollasta. Lukion matematiikastakin tutun raja-arvon käsitteen avulla voidaan sanoa, että luku poikkeaa mielivaltaisen vähän nollasta.</p>
-            <p>Tarkasta muotoilusta riippuen Zenonin paradokseista voi löytää muitakin ongelmia. Esimer- kiksi, kuten 1900-luvun filosofit Bertrand Russellin (1872–1970) johdolla ovat huomautta- neet, Zenonin paradoksit ratkaisevan matematiikan kehittäminen on vain osaratkaisu. On toinen asia, noudattaako fysikaalinen maailma reaalilukujen matematiikkaa. Tässä palataan Zenonin alkuperäiseen tavoitteeseen puolustaa Parmenideen käsitystä, että todellisuus on ykseys.</p>
-            <p>Zenonin mukaan paradoksit osoittavat, että moneuden ja liikkeen mahdollistava käsitteistö johtaa ristiriitaan. Tämä kyseenalaistaa aistitodellisuuden luotettavuuden ja perustavuuden, ei välttämättä sen olemassaoloa. Parmenideen opetusrunossa on itse asiassa ykseysajattelua korostavan , ns. Totuuden tien, lisäksi osa, ns. Luulon tie, jossa hän kuvailee moninaisuuden ja liikkeen hyväksyvien ihmisten maailmaa. Vieläkään ei ymmärretä, miten Parmenides ajat- teli osien yhdistyvän kokonaisuudeksi. Selitykset, jotka pelkän aistihavainnon perusteella kiistävät Parmenideen monismin tai Zenonin paradoksien painoarvon, eivät kuitenkaan näy- tä tavoittavan koko argumentaatiota. Tällaisia tulkintoja on toki filosofian historiassakin an- tiikista asti esitetty. Zenonin tuki Parmenideen monismille on joka tapauksessa kahtalainen: yhtäältä moneuden ja liikkeen hyväksyvä käsitteistö pyritään osoittamaan ristiriitaiseksi, toisaalta sitä vahvasti tukevien aistihavaintojen luotettavuus kyseenalaistetaan.</p>
-            <p>Vastaus kohtaan 3.2. on essee, jonka pisteityksessä kaikki yllä mainitun arviointitaulukon ulottuvuudet tulee ottaa huomioon.</p>
-            <p>4 pisteen vastauksessa kokelas pystyy jonkinlaista ymmärrystä osoittaen kuvailemaan valit- semansa paradoksin rakenteen tai sen, miten paradoksi tukee Parmenideen monismia.</p>
-            <p>8 pisteen vastauksessa kokelas tekee molemmat.</p>
-            <p>12 pisteen vastauksessa kokelaan paradoksia koskeva selitys on johdonmukainen ja kuvaa osuvasti, millaisen ongelman Zenonin argumentti tuo esiin liikkeen ja moneuden käsitteessä. Lisäksi kokelas selittää paradoksin Parmenideen monismille antamaa tukea.</p>
-            <p>Tyypillistä huippupisteiden vastauksille on, että niissä pystytään jollain tavalla hyödyntä- mään Parmenideen ajattelusta tai Zenonin paradokseista käytyjä keskusteluja tai johdonmu- kaisesti, tarkasti ja kattavasti erittelemään yksi Zenonin paradokseista ja kuvailemaan sen suhde Parmenideen filosofiaan.</p>
           </e:localization>
           <e:localization lang="sv-FI">
             I videoklippet
@@ -302,6 +305,21 @@
             filosofi.
           </e:localization>
         </e:question-title>
+        <e:question-instruction>
+          <p>Zenonin paradoksien tavoitteena on paljastaa ristiriitoja, jotka seuraavat oletuksesta, että liike ja/tai moneus ovat olemassa. Kuten videokatkelmassa selvästi esitetään, Zenonin para- doksit siis puolustavat Parmenideen monistista filosofiaa eli ykseysajattelua. Tämä tapahtuu johtamalla ristiriitaisia tai ilmeisen mahdottomia tuloksia liikkeen olemassaoloa tukevista oletuksista, jotka täytyy siksi hylätä.</p>
+          <p>Paradoksien yhteinen lähtökohta on ykseysajattelun vastakohta, että liike on mahdollista ja että aika (tai matkan osalta ulottuvuus) on jaettavissa useampaan osaan. Periaatteessa osia voi olla äärellinen tai ääretön määrä. Äärellinen määrä jakamattomia ajan hetkiä on kuiten- kin hyvin epäuskottava ajatus, vaikka nuoli-paradoksin voi ehkä jäsentää myös tältä pohjalta. Luontevin tulkinta aineistossa olevien paradoksien asetelmasta on, että aika/ulottuvuus koostuu äärettömästä määrästä hetkiä/pisteitä. Paradoksi seuraa siitä, että näiden het- kien/pisteiden mitta on joko nolla tai poikkeaa jonkin verran nollasta.</p>
+          <p>Aineiston ensimmäinen paradoksi – perinteisessä muodossaan Akhilleus ja kilpikonna – joh- taa paradoksiin, jos hetkien/pisteiden mitta eroaa nollasta. Ääretön määrä mitaltaan nollas- ta poikkeavia pisteitä/hetkiä tuottaa nyt äärettömän pitkän ajan/ulottuvuuden ja mitään etumatkaa ei koskaan voi saada kiinni, koska se on tosiasiassa ääretön. Nuoli-paradoksi puo- lestaan seuraa siitä, jos hetkien/pisteiden mitta on nolla. Silloin niissä ei voi tapahtua liikettä. Mutta koska kaikki aika koostuu vain hetkistä, joissa nuoli ei liiku, nuoli ei liiku lainkaan.</p>
+          <p>Joskus paradoksit on jaettu myös siten, että osa kohdistuu aikaan ja/tai ulottuvuuteen, joka on jatkuva ja osa aikaan ja/tai ulottuvuuteen, joka on epäjatkuva eli diskreetti. Erottelu voi luontevasti tulla esiin myös aineiston paradoksien tulkinnassa. Aineiston ensimmäinen Akhil- leus ja kilpikonna -paradoksi voidaan tällöin liittää jatkuvaan malliin, jossa jokaisen pisteen tai hetken välistä löytyy uusi. Nuoli-paradoksi puolestaan voitaisiin kuvata epäjatkuvalla mal- lilla. Videoaineistossa paradoksit vaikuttavat jäsentyvän enemmän edellisessä kappaleessa esitetyn ja helpommin ymmärrettävän pisteen/hetken mittaa koskevan vastakkainasettelun pohjalta. Kokelas voi kuitenkin tarkastella valitsemaansa paradoksia myös jatkuvuuden ja epäjatkuvuuden näkökulmasta. Muitakin vaihtoehtoisia tulkintalinjoja on esitetty.</p>
+          <p>Gottfried Leibniz (1646–1716) ja Isaac Newton (1642–1726) kehittivät differentiaali- ja in- tegraalilaskennan, joka tavallaan ratkaisee tehtävän paradoksit, joskin asian matemaattisen täsmällinen muotoilu vaati vielä ainakin Augustin Cauchyn (1789–1857) sarjojen sup- penemista ja Karl Weierstrassin (1815–1897) raja-arvoa koskevan työn. Filosofialle tyypilli- sesti Zenonin ongelmana voi pitää poissulkevaa vastakkainasettelua, että matka tai aika on joko nolla tai poikkeaa tietyn verran nollasta. Lukion matematiikastakin tutun raja-arvon käsitteen avulla voidaan sanoa, että luku poikkeaa mielivaltaisen vähän nollasta.</p>
+          <p>Tarkasta muotoilusta riippuen Zenonin paradokseista voi löytää muitakin ongelmia. Esimer- kiksi, kuten 1900-luvun filosofit Bertrand Russellin (1872–1970) johdolla ovat huomautta- neet, Zenonin paradoksit ratkaisevan matematiikan kehittäminen on vain osaratkaisu. On toinen asia, noudattaako fysikaalinen maailma reaalilukujen matematiikkaa. Tässä palataan Zenonin alkuperäiseen tavoitteeseen puolustaa Parmenideen käsitystä, että todellisuus on ykseys.</p>
+          <p>Zenonin mukaan paradoksit osoittavat, että moneuden ja liikkeen mahdollistava käsitteistö johtaa ristiriitaan. Tämä kyseenalaistaa aistitodellisuuden luotettavuuden ja perustavuuden, ei välttämättä sen olemassaoloa. Parmenideen opetusrunossa on itse asiassa ykseysajattelua korostavan , ns. Totuuden tien, lisäksi osa, ns. Luulon tie, jossa hän kuvailee moninaisuuden ja liikkeen hyväksyvien ihmisten maailmaa. Vieläkään ei ymmärretä, miten Parmenides ajat- teli osien yhdistyvän kokonaisuudeksi. Selitykset, jotka pelkän aistihavainnon perusteella kiistävät Parmenideen monismin tai Zenonin paradoksien painoarvon, eivät kuitenkaan näy- tä tavoittavan koko argumentaatiota. Tällaisia tulkintoja on toki filosofian historiassakin an- tiikista asti esitetty. Zenonin tuki Parmenideen monismille on joka tapauksessa kahtalainen: yhtäältä moneuden ja liikkeen hyväksyvä käsitteistö pyritään osoittamaan ristiriitaiseksi, toisaalta sitä vahvasti tukevien aistihavaintojen luotettavuus kyseenalaistetaan.</p>
+          <p>Vastaus kohtaan 3.2. on essee, jonka pisteityksessä kaikki yllä mainitun arviointitaulukon ulottuvuudet tulee ottaa huomioon.</p>
+          <p>4 pisteen vastauksessa kokelas pystyy jonkinlaista ymmärrystä osoittaen kuvailemaan valit- semansa paradoksin rakenteen tai sen, miten paradoksi tukee Parmenideen monismia.</p>
+          <p>8 pisteen vastauksessa kokelas tekee molemmat.</p>
+          <p>12 pisteen vastauksessa kokelaan paradoksia koskeva selitys on johdonmukainen ja kuvaa osuvasti, millaisen ongelman Zenonin argumentti tuo esiin liikkeen ja moneuden käsitteessä. Lisäksi kokelas selittää paradoksin Parmenideen monismille antamaa tukea.</p>
+          <p>Tyypillistä huippupisteiden vastauksille on, että niissä pystytään jollain tavalla hyödyntä- mään Parmenideen ajattelusta tai Zenonin paradokseista käytyjä keskusteluja tai johdonmu- kaisesti, tarkasti ja kattavasti erittelemään yksi Zenonin paradokseista ja kuvailemaan sen suhde Parmenideen filosofiaan.</p>
+
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="15" />
       </e:question>
     </e:question>
@@ -312,89 +330,21 @@
       </e:question-title>
       <e:question-instruction>
         <e:localization lang="fi-FI">
-          Aasiassa on perinteisesti syöty koiria, mitä Euroopassa pidetään sopimattomana. Arvioi filosofisesti lihan
-          syönnin oikeutusta ja sen rajaamista eri eläinlajeihin. Käytä vastauksessasi apuna uutiskatkelmaa
-          <e:attachment-link ref="4A" />
-          ja vastamainosta
-          <e:attachment-link ref="4B" />
-        </e:localization>
-        <e:localization lang="sv-FI">
-          I Asien har man traditionellt ätit hundar, men i Europa anses det olämpligt. Utvärdera filosofiskt det
-          berättigade i att äta kött och i att begränsa ätandet till olika djurarter. Utnyttja tidningsnyheten
-          <e:attachment-link ref="4A" />
-          och antireklamen
-          <e:attachment-link ref="4B" />
-          som hjälp i ditt svar.
+          <p>LOPS15:ssä tehtävä liittyy kurssin Etiikka (FI2) kohtiin ”eläimiä koskevia eettisiä kysymyksiä” ja ”moraali ja soveltava etiikka”. Jälkimmäinen kohta löytyy myös LOPS03:n kurssista Filoso- finen etiikka (FI2). Etenkin LOPS03:ssa tehtävällä on yhtymäkohtia myös kurssiin Yhteiskun- tafilosofia (FI3/FI4).</p>
+          <p>Lihansyönnin oikeuttamista on kenties helpointa lähestyä tukeutumalla biologiaan, traditi- oon tai valinnanvapauteen. Biologiassa ihminen määritellään yleensä sekasyöjäksi ja run- saasti proteiinia sisältävä liha tarjoaa ihmiselle ravitsevaa ravintoa. Tämä deskriptiivinen väi- te ei tosin vielä ole lihansyönnin oikeuttava argumentti. Se vaatii lisäperustelun, että ihmisen on hyvä, luonnollista tai tarpeellista hankkia proteiini lihasta. Voidaan esimerkiksi esittää, että lihan korvaaminen on liian vaikeaa tai että se on tarpeetonta, koska siinä ei ole mitään pahaa. Edellistä argumenttia vastaan voi esittää näkemyksen, jonka mukaan ihminen – aina- kin nykyaikaisissa kehittyneissä yhteiskunnissa – pystyy hyvin pitkälle valitsemaan ravinton- sa. Näin ihminen voi tulla toimeen ja elää terveellisesti ilman eläinperäistä ravintoa. Kysymys siitä, mitä pahaa eläinten syönnissä on, liittyy yhtäältä eläinten tappamiseen, toisaalta teura- seläinten kasvattamiseen ja kohteluun.</p>
+          <p>Ihmisen vapaudelle päättää lihan syönnistä voidaan hakea filosofisia argumentteja esimer- kiksi liberalistisesta tai konservatiivisesta traditiosta. Edellisessä korostetaan ihmisen vapaut- ta päättää omaa elämäänsä koskevista kysymyksistä ruokavalio mukaan lukien. Jälkimmäi- sessä oletetaan, että lihaa on ennenkin syöty, ja korostetaan sitä, että näin menetellen ihmi- set ovat ennenkin selvinneet. Lihansyöntiä puolustettaessa traditioon tukeutuen olisi argu- mentteja kehiteltäessä hyvä ottaa huomioon pelkän ”näin on aina tehty”-argumentin on- gelmallisuus. Esimerkiksi suomalaisessa yhteiskunnassa on jo tehty useita muutoksia kohti terveellisempiä ja turvallisempia elämäntapoja – monipuolisempi ruokavalio, turvavyöt, eri- laiset tupakointikiellot ja pyöräilykypärät ovat tuskin huonontaneet ihmisten keskimääräistä elämän laatua.</p>
+          <p>Lihansyönnin oikeutuksen kieltävän näkemyksen luonnollisimmat lähtökohdat ovat eettisesti eläinten oikeudet sekä yhteiskuntafilosofisesti ympäristölle haitalliset vaikutukset. Jälkim- mäiset voivat liittyä ensisijaisesti lihantuotannon yleisesti raskaaseen ympäristökuormituk- seen, kuten kasvihuonekaasuihin, mutta siinä voidaan tarkastella myös erityisempiä kysy- myksiä. Nämä liittyvät usein teuraseläinten huonoon kohteluun ja elinoloihin sekä epäeetti- seen eläinravinnon kierrätykseen. Eläinten oikeuksista puhutaan usein silloinkin, kun tarkasti ottaen ei puhuta oikeusetiikasta vaan eläinten epäeettisen kohtelun rajoittamisesta vaikkapa seuraus- tai hyve-eettisin perustein. Eläinten eettistä kohtelua käsiteltäessä voidaan tukeu- tua filosofian perinteessä esitettyihin argumentteihin mutta tätä ei edellytetä, vaan johdon- mukaisilla ja hyvin perustelluilla argumenteilla voi yltää huippupisteisiin.</p>
+          <p>Jo Antiikin Kreikassa lihansyönnin oikeutus oli filosofisen väittelyn aihe ja sieltä on peräisin kenties ensimmäinen kasvissyönnille rationaalisia perusteluja länsimaisessa perinteessä esit- tänyt kirja, Plutarkhoksen (n. 45–125 jaa.) Lihansyönnistä. Hänen mukaansa eläimillä on ais- tit, sielu ja järki eikä niitä saa surmata kuin välttämättömyyden pakosta. Muuten lihansyönti on pelkkää turhan nautinnon tavoittelua ja hybristä (ylimielisyyttä). Uudella ajalla Descarte- sin (1596–1650) näkemykset eläimistä monimutkaisina koneina ovat heikentäneet eläinten eettistä asemaa filosofian perinteessä.</p>
+          <p>Nykyaikaisen keskustelun klassikko on utilitaristi Peter Singer (s. 1946), joka pitää kykyä ko- kea kärsimystä eettisen arvion perustana. Singerin näkemyksen mukaan ei ole olemassa mo- raalisia perusteita olla antamatta eläinten intresseille samankaltaista painoarvoa kuin ihmis- ten intresseille. Hän kutsuu rasismiin verrattavaksi spesismiksi eli lajisorroksi sitä, että ihmi- sille myönnetään eettisiä oikeuksia vain heidän lajinsa perusteella. Eri eläinlajien osalta kär- simyksen kokemisen määrittely voi kuitenkin muuttua vaikeaksi, kun niiden hermoston ra- kenne poikkeaa riittävästi ihmisen vastaavasta. Nisäkkäät ja linnut, ehkä myös jotkin kalat ja matelijat, saattavat kokea samalla tavoin kuin ihmiset, mutta entä hyönteiset? Suomalaises- sa keskustelussa eläinten oikeuksien ja luonnon itseisarvon tunnetuin puolustaja on toden- näköisesti Pentti Linkola, joka korostaa ihmisten toiminnan yleisesti ottaen haitallisia vaiku- tuksia koko maapallolle.</p>
+          <p>Aineistossa verrataan Aasiaa ja Eurooppaa, mikä johdattelee luontevasti erilaisiin kulttuuri- relativistisiin argumentteihin. Kulttuurirelativismin pohjalta perusvastaus on, että kukin kult- tuuri määrittelee itse, mitä eläimiä syödään eikä yleispätevää vastausta ole. Sinänsä kulttuu- rien erilaisia käytäntöjä voi luultavasti käyttää sekä lihansyöntiä tukevien että sitä vastusta- vien argumenttien lähtökohtana. On hyvä huomata, että eri kulttuureissa se, mitä eläimiä on sallittua syödä, vaihtelee. Kuten koiran syöminen meille, myös hevosen tai poron syöminen voi olla toisesta kulttuurista tulevalle järkyttävää. Ajankohtainen uusi kysymys Suomessa on hyönteisten, erityisesti sirkkojen, syöminen, jonka osalta lainsäädäntö on vapautunut vuo- den 2018 alusta.</p>
+          <p>Tehtävänannossa kysytään lihansyönnin oikeutusta sekä yleisellä tasolla että tiettyihin lajei- hin kohdistuen. Aineistoon liittyvä eri lajien mahdollisesti erilainen kohtelu liittyy suorimmin kotieläimiin. Ne ovat nykyään yleensä lemmikkejä, joita pidetään lähinnä ihmisten tunteita ja henkistä hyvinvointia korostavista syistä, vaikka maatiloilla sekä erilaisissa palvelutehtävissä, kuten sokeita auttamassa, on edelleen myös hyötykotieläimiä. Lemmikit koetaan perheenjä- seniksi ja niihin kohdistuvat moraaliset toimintaohjeet monilla ihmisillä poikkeavat jyrkästi teuras- ja villieläimiin sovellettavista ohjeista. Kotieläimet eivät kuitenkaan rajoitu koiriin ja kissoihin, vaan löytyy myös esimerkiksi minipossuja sekä terraariosta ja akvaariosta myös muita kuin nisäkkäitä.</p>
+          <p>On vaikeaa luokitella eläinlajeja sen mukaan, miten ne kokevat kipua, tai sen mukaan, missä määrin ne ovat kotieläimiä. Helppoa ei ole myöskään kolmannen ja ehkä yleisimmän eläin- ten erilaisen kohtelun mittarin eli älykkyyden käyttäminen. Älykkyyttä, tietoisuutta ja kykyä symboliseen kielelliseen kommunikaatioon on usein pidetty ihmisen erikoispiirteinä, joiden on katsottu oikeuttavan muiden eläinten hyötykäytön ja syömisen. Eläinten älykkyys ja sen kärkisijojen jakautuminen muille kuin perinteisille kotieläimille on kuitenkin viimeisen sadan vuoden aikana muuttanut paljon eri eläimiä koskevaa ajattelua. Eläinten kokemusmaailman jäsentämisessä myös erilaiset tavat aistia, kuten lepakoiden kaikuluotaus, mutkistavat luokit- telua.</p>
+          <p>5 pisteen vastauksessa kokelas esittelee erilaisia näkökohtia lihan – ja erityisesti eri eläinla- jien – syömisen puolesta ja sitä vastaan.</p>
+          <p>10 pisteen vastauksessa kokelas esittää asiasta jonkinlaisen käsitteelliselle filosofiselle tasolle nousevan arvion, jossa on hyödynnetty aineistoa ja ainakin asian eettinen tai yhteiskuntafi- losofinen ulottuvuus on otettu selkeästi huomioon.</p>
+          <p>15 pisteen vastauksessa kokelaan arvio on kattava ja johdonmukainen. Siinä otetaan huomi- oon sekä eettisiä että muita filosofisia seikkoja ja arvioidaan, vaikuttavatko eläinlajien erot lihan syömisen oikeutukseen.</p>
+          <p>Tyypillistä huippupisteiden vastauksille on, että niissä pystytään jollain tavalla hyödyntä- mään filosofian perinteessä aihepiiristä käytyjä keskusteluja tai monipuolisesti, johdonmu- kaisesti ja kattavasti esittämään koko laajaa ilmiökenttää koskeva arvio.</p>
         </e:localization>
       </e:question-instruction>
-      <e:external-material>
-        <e:attachment name="4A">
-          <e:attachment-title>
-            <e:localization lang="fi-FI">Uutiskatkelma: Consectetur cupidatat et non occaecat voluptate laboris
-            </e:localization>
-            <e:localization lang="sv-FI">Tidningsnyhet: Consectetur cupidatat et non occaecat voluptate laboris</e:localization>
-          </e:attachment-title>
-
-          <e:localization lang="fi-FI">
-            <h4>Consectetur cupidatat et non occaecat voluptate laboris</h4>
-            <p>Nostrud laborum aute reprehenderit eiusmod ex do aute.</p>
-            <e:image src="4A.jpg">Elit elit laborum tempor reprehenderit excepteur excepteur commodo nostrud.
-            </e:image>
-            <p>Dolore est occaecat ex est culpa minim quis incididunt excepteur eiusmod
-              officia occaecat qui cupidatat. Duis sunt ad minim dolore amet veniam anim sunt amet
-              non. Est mollit consequat sint reprehenderit deserunt laborum est voluptate nulla magna.
-              Incididunt in in deserunt aliqua dolore aute id aliqua.
-            </p>
-            <p>Nostrud aliqua non ad ea excepteur eu nostrud laborum deserunt in mollit amet dolore officia.
-              Sunt cillum fugiat veniam occaecat esse fugiat occaecat. Cupidatat officia sint minim officia
-              officia dolore sit magna duis reprehenderit id. Cillum esse ullamco laborum occaecat qui eu tempor
-              velit duis proident.
-            </p>
-            <p>Minim exercitation ad aute pariatur fugiat nulla.
-            </p>
-          </e:localization>
-          <e:localization lang="sv-FI">
-            <h4>Consectetur cupidatat et non occaecat voluptate laboris</h4>
-            <p>Dolore ea commodo nostrud nulla deserunt ullamco ad commodo.</p>
-            <e:image src="4A.jpg">Culpa reprehenderit laborum dolor aliqua velit.
-            </e:image>
-            <p>Pariatur irure incididunt ipsum reprehenderit veniam do elit aliqua enim sunt. Eiusmod ea
-              proident irure voluptate quis laboris velit eiusmod. Sint do occaecat irure exercitation
-              occaecat aliquip ullamco ullamco. Minim ea cupidatat nulla aliquip exercitation sunt
-              adipisicing ipsum non.
-            </p>
-            <p>Consectetur cupidatat labore in eiusmod. Sit dolore nulla culpa in deserunt commodo consectetur
-              sunt enim ut proident. Non cupidatat mollit non labore ullamco sit duis. Sunt mollit nostrud
-              aliqua officia esse id ea deserunt eu mollit incididunt. Qui labore consectetur exercitation
-              laborum laborum. In dolor consequat eu dolore ea. Eiusmod ex pariatur mollit id occaecat in
-              culpa qui ipsum consequat proident qui.
-            </p>
-            <p>Consequat ipsum minim anim in amet veniam ea et exercitation nisi.</p>
-          </e:localization>
-
-          <e:reference>
-            <e:author>Adipisicing excepteur</e:author>
-            <e:publication>nostrud commodo ex</e:publication>
-            <e:url>fugiat.pariatur.illum</e:url>
-            <e:publication-date>2017-04-12</e:publication-date>
-            <e:reference-date>2017-05-09</e:reference-date>
-          </e:reference>
-        </e:attachment>
-        <e:attachment name="4B">
-          <e:attachment-title>
-            <e:localization lang="fi-FI">Aliqua magna deserunt eu laboris nulla aliqua</e:localization>
-            <e:localization lang="sv-FI">Aliqua magna deserunt eu laboris nulla aliqua</e:localization>
-          </e:attachment-title>
-
-          <e:image src="4B.png" />
-
-          <e:reference>
-            <e:publisher>Consequat dolor laboris anim do culpa consequat</e:publisher>
-            <e:url>http://excepteur.eiusmod.sunt/adipisicing</e:url>
-            <e:reference-date>2018-02-28</e:reference-date>
-          </e:reference>
-        </e:attachment>
-      </e:external-material>
       <e:text-answer type="rich-text" max-score="20" />
     </e:question>
     <e:question>
@@ -404,101 +354,23 @@
       </e:question-title>
       <e:question-instruction>
         <e:localization lang="fi-FI">
-          <em>Qui tempor</em>
-          on suomalainen sketsisarja, ja Dolore Mollit (1926–1984) on ranskalainen vallan teoreetikko.
+          <p>Tehtävä liittyy LOPS15:n kurssin Yhteiskuntafilosofia (FI3) kohtiin ”vallan käsite ja muodot, vallan oikeuttaminen” ja ”oikeudenmukaisuuden eri muodot, niiden perusteleminen ja so- veltaminen”. LOPS03:n vastaavalla kurssilla on kohdat ”vallan oikeuttaminen” ja ”yhteiskun- nallinen oikeudenmukaisuus”.</p>
+          <p>Vastauksen lähtökohta on videokatkelman tapahtumien analyysissa. Asetelma liittyy tyypilli- seen työpaikan arkiseen ja pienimuotoiseen vallankäyttöön. Koska kyseessä on koulu ja esi- mies on rehtori, hän vastaa opettajien lisäksi myös oppilaiden ja opiskelijoiden vapaiden myöntämisestä, mikä voi tuoda asetelmaan omakohtaisuutta.</p>
+          <p>Työpaikan perinteisessä asetelmassa valta usein mielletään asemaan liittyväksi oikeudeksi tehdä päätöksiä. Opettajat eivät kuitenkaan tyydy rehtorin virka-aseman perusteella teke- mään päätökseen, vaan koetun epäoikeudenmukaisuuden takia pyrkivät kamppailemaan asiasta. ”Porukassa sanomalla” muodostuu strateginen suhdeverkko, jossa esimiehen valta voidaan haastaa. Keskustelun aikana strateginen tilanne kuitenkin muuttuu, mikä näkyy esi- merkiksi Kirstin reaktiossa ja Eevin jännittyneessä puheessa. Annika ja Paula vaihtavat ase- maa, luopuvat mahdollisesti riskialttiista protestoinnista ja jättävät Eevin yksin. Varsinkin, kun Eevi itse asiassa oli Annikan asialla, tällainen käyttäytyminen vaikuttaa erittäin epäoi- keudenmukaiselta. Valta-asetelmat ja ”ongelma” muuttuvat ja jatkossa ”Eevi on ongelma”.</p>
+          <p>Taustalla on asetelma, jossa eri työntekijöitä on kohdeltu eri tavoin, vaikka videokatkelmassa annetaan ymmärtää, että asianmukaisia erotteluperusteita ei ole. Tällöin rikotaan Aristote- leen määrittelemää oikeudenmukaisuuden muodollista periaatetta: Samanlaisia on kohdel- tava samalla tavoin, erilaisia eri tavoin. ”Esimies”-sanan käyttö ja se, että edunsaaja on ni- meltään Tuomo, voivat tässä vihjata myös sukupuolten välisiin valta-asetelmiin epäoikeu- denmukaisuuden taustalla. Vallan käsitteen lisäksi tehtävässä on syytä eritellä oikeudenmu- kaisuuden käsitettä.</p>
+          <p>5 pisteen vastauksessa kokelas kuvailee vallankäyttöä ja sen oikeudenmukaisuutta videokat- kelmassa. Vaihtoehtoisesti hän erittelee vallankäyttöä tai arvioi sen oikeudenmukaisuutta.</p>
+          <p>10 pisteen vastauksessa kokelas erittelee vallankäyttöä ja arvioi sen oikeudenmukaisuutta videokatkelmassa. Erittely on johdonmukaista ja joko hyödyntää Foucault’n tekstiä tai käyt- tää täsmällisesti määriteltyjä vallan ja oikeudenmukaisuuden käsitteitä.</p>
+          <p>15 pisteen vastauksessa kokelaan erittely on käsitteellisesti tarkkaa ja arvio on monipuoli- nen.</p>
+          <p>Tyypillistä huippupisteiden vastauksille on, että niissä pystytään hyödyntämään filosofian perinteessä vallan ja oikeudenmukaisuuden käsitteistä käytyjä keskusteluja, esimerkiksi erit- telemällä Foucault’n näkemystä ja soveltamalla sitä videokatkelman erittelyyn.</p>
+
         </e:localization>
         <e:localization lang="sv-FI">
           <em>Qui tempor</em>
           är en finsk sketchserie producerad av YLE och Dolore Mollit (1926–1984) är en fransk maktteoretiker.
         </e:localization>
       </e:question-instruction>
-      <e:external-material>
-        <e:attachment name="5A">
-          <e:attachment-title>
-            <e:localization lang="fi-FI">Videokatkelma: <em>Qui tempor</em>: Opettajat 1
-            </e:localization>
-            <e:localization lang="sv-FI">Videoklipp: <em>Qui tempor</em>: Lärarna 1
-            </e:localization>
-          </e:attachment-title>
-
-          <e:video src="T5_FI.webm" lang="fi-FI" />
-          <e:video src="T5_SV.webm" lang="sv-FI" />
-
-          <e:reference>
-            <e:title>
-              <e:localization lang="fi-FI">Qui tempor: Opettajat 1</e:localization>
-              <e:localization lang="sv-FI">Qui tempor: Lärarna 1</e:localization>
-            </e:title>
-            <e:publication>Qui fugiat</e:publication>
-            <e:url>www.youtube.com</e:url>
-            <e:publication-date>2015-06-09</e:publication-date>
-            <e:reference-date>2017-05-09</e:reference-date>
-            <e:modified-by>YTL</e:modified-by>
-          </e:reference>
-        </e:attachment>
-        <e:attachment name="5B">
-          <e:attachment-title>
-            <e:localization lang="fi-FI">
-              Tekstikatkelma: Dolore Mollit,
-              <em>Qui reprehenderit enim cillum adipisicing officia</em>
-            </e:localization>
-            <e:localization lang="sv-FI">
-              Textutdrag: Dolore Mollit,
-              <em>Qui reprehenderit enim cillum adipisicing officia</em>
-            </e:localization>
-          </e:attachment-title>
-
-          <e:localization lang="fi-FI">
-            Magna nulla in aliqua tempor proident qui pariatur eu laboris ex.
-            Eiusmod minim dolor aliqua cupidatat cupidatat. Ex pariatur est sunt
-            anim ut adipisicing. Ullamco nulla eu nisi tempor officia aliquip nulla
-            culpa amet amet sit aute occaecat mollit. Labore labore ut qui elit cillum
-            excepteur nulla adipisicing laboris quis. Tempor qui labore enim ea nulla
-            dolor.
-          </e:localization>
-          <e:localization lang="sv-FI">
-            Eu cillum eu culpa ex qui cillum voluptate dolor reprehenderit nostrud ut
-            anim eu. Exercitation nisi incididunt labore Lorem sit anim sunt
-            consectetur irure sunt aute. Veniam fugiat nulla ea enim anim est aute ea.
-             Magna eu nulla reprehenderit officia cillum irure deserunt reprehenderit
-             incididunt tempor. Magna amet proident cupidatat ullamco sint sunt nulla et
-             dolore est veniam. Laboris elit occaecat consectetur qui nisi eiusmod eiusmod
-             veniam in proident.
-          </e:localization>
-
-          <e:reference>
-            <e:author>Dolore Mollit</e:author>
-            <e:title>
-              <e:localization lang="sv-FI">Qui reprehenderit enim cillum adipisicing officia</e:localization>
-              <e:localization lang="fi-FI">Qui reprehenderit enim cillum adipisicing officia</e:localization>
-            </e:title>
-            <e:publication-date>1975</e:publication-date>
-            <e:translator>
-              <e:localization lang="sv-FI">Commodo Dolore</e:localization>
-              <e:localization lang="fi-FI">Cillum Adipisicing</e:localization>
-            </e:translator>
-            <e:translation-date lang="fi-FI">1980</e:translation-date>
-            <e:translation-date lang="sv-FI">1998</e:translation-date>
-          </e:reference>
-        </e:attachment>
-      </e:external-material>
       <e:question-instruction>
-        <e:localization lang="fi-FI">
-          Perehdy videokatkelmaan
-          <e:attachment-link ref="5A" />
-          ja tekstikatkelmaan
-          <e:attachment-link ref="5B" />. Erittele vallankäyttöä videokatkelmassa
-          <e:attachment-link ref="5A" />
-          ja arvioi sen oikeudenmukaisuutta.
-        </e:localization>
-        <e:localization lang="sv-FI">
-          Sätt dig in i videoklippet
-          <e:attachment-link ref="5A" />
-          och textutdraget
-          <e:attachment-link ref="5B" />. Analysera maktutövningen i videoklippet
-          <e:attachment-link ref="5A" />
-          och bedöm dess rättvisa.
-        </e:localization>
+
       </e:question-instruction>
       <e:text-answer type="rich-text" max-score="20" />
     </e:question>
@@ -507,16 +379,23 @@
         <e:localization lang="fi-FI">Tiedon kriteerit</e:localization>
         <e:localization lang="sv-FI">Kriterierna för kunskap</e:localization>
       </e:question-title>
+      <p>LOPS15:ssä tehtävä liittyy kurssin Tieto, tiede ja todellisuus (FI4) kohtaan ”tiedon oikeutta- minen”.
+        LOPS03:ssä tehtävä liittyy kurssin Tiedon ja todellisuuden filosofia (FI3) samaan koh- taan sekä kurssin
+        Johdatus filosofiseen ajatteluun (FI1) kohtaan ”tietoa ja tietämistä koskevia filosofisia perusnäkemyksiä”.
+      </p>
+      <p>Tehtävä nojaa ennen kaikkea tiedon klassiseen määritelmään ja sille esitettyyn kritiikkiin. Tehtävän
+        kohdassa 6.3. tiedon määritelmää sovelletaan toisen käden tietoon. Klassisen mää- ritelmän mukaan tieto
+        on perusteltu tai oikeutettu tosi uskomus. Uskomuksen perustelu vaatii tiedon subjektin aktiivista toimintaa,
+        mutta uskomus voi olla esimerkiksi syntytapansa nojalla oikeutettu, vaikkei subjekti olisi sen oikeutuksesta
+        tietoinen. Kokelaan ei edellytetä tekevän erottelua perustellun ja oikeutetun uskomuksen välillä, mutta
+        hyvä vastaus on kui- tenkin käsitteellisesti johdonmukainen. Tehtävän kolmea tapausta on luontevinta
+        tarkastella klassisen määritelmän valossa, mutta hyvän vastauksen voi rakentaa myös jonkin muun ta-
+        pauksiin soveltuvan tiedon määritelmän valossa.
+      </p>
+      <p>
+        <strong>Tehtävän kaikissa osissa on merkkimäärärajoitus eikä vastauksia tarvitse arvostella essei- nä.</strong></p>
       <e:question>
         <e:question-title>
-          <e:localization lang="fi-FI">
-            Henri ajelee maaseudulla poikansa kanssa ja kertoo hänelle, mitä sattuu kulloinkin näkemään. Henri näkee
-            pellolla ladon ja kertoo pojalleen: ”Tuolla on lato”. Henrillä on erinomainen näkökyky, ja hänellä on
-            lausettaan vastaava oikeutettu tosi uskomus.
-            <br />
-            <br />
-            Onko Henrillä tietoa siitä, että hänen näkemänsä kohde on lato? Perustele vastauksesi.
-          </e:localization>
           <e:localization lang="sv-FI">
             Henri är ute och kör på landsbygden med sin son och berättar för honom vad han råkar se längs vägen. Henri
             ser en lada på en åker och berättar för sin son: ”Där är en lada”. Henri har utmärkt syn, och han har en
@@ -526,19 +405,31 @@
             Har Henri kunskap om att det objekt han ser är en lada? Motivera ditt svar.
           </e:localization>
         </e:question-title>
+        <e:question-instruction>
+          <p>Kysymykseen on perusteltua vastata myöntävästi. Perustelun ydinosan voi muodostaa huo- mio, että Henri
+            on muodostanut oikeutetun toden uskomuksen, joka täyttää tiedon klassi- sessa määritelmässä annetut
+            yleiset ehdot. Lisäksi vastauksessa tulee perustella, miksi Hen- rin tosi uskomus on oikeutettu. Tämän
+            voi tehdä viittaamalla Henrin erinomaiseen näköky- kyyn ja toteamalla, että moitteeton näkökyky on
+            luotettava uskomusten lähde hyvissä ha- vainto-olosuhteissa. Mikäli olosuhteet olisivat epäsuotuisat
+            tarkoille havainnoille, ei usko- musta voitaisi pitää oikeutettuna.
+          </p>
+          <p>Kysymykseen voi vastata myös kieltävästi, vaikkakin silloin on vaarana ajautua epämielek- kään
+            tiukkaan tiedon määrittelyyn. Siinä tapauksessa kokelaan on osoitettava, miksi Henrin oikeutettu tosi
+            uskomus ei muodosta tietoa. Kokelas voi esittää, että tiedon klassinen määri- telmä ei anna
+            riittäviä ehtoja tiedolle ja näin ollen Henrin oikeutettu tosi uskomus ei täytä näitä ehtoja.
+            Vastauksessa kokelaan tulee hahmotella ainakin yksi lisäehto, jolla tiedon klas- sista määritelmää
+            voitaisiin täydentää. Vaihtoehtoisesti kokelas voi perustaa vastauksensa jollekin muulle tiedon
+            määritelmälle.
+          </p>
+          <p>3 pisteen vastauksessa kokelas esittää vastaukselleen yhden osuvan perustelun.</p>
+          <p>5 pisteen vastauksessa kokelas perustelee vastaustaan johdonmukaisesti ottamalla huomi- oon sekä tiedon
+            määritelmän että Henrin uskomuksen oikeutuksen.
+          </p>
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="6" />
       </e:question>
       <e:question>
         <e:question-title>
-          <e:localization lang="fi-FI">
-            Henri ajaa vähän eteenpäin ja saapuu peltoalueelle, jolla on oikeiden latojen joukossa pahvisia
-            latokulisseja, jotka erehdyttäisivät ketä tahansa. Henri näkee kuitenkin oikean ladon ja sanoo taas
-            pojalleen: ”Tuollakin on lato”. Jos hän olisi sattunut kohdistamaan katseensa pelkkään kulissiin, hän olisi
-            uskonut senkin olevan lato.
-            <br />
-            <br />
-            Onko Henrillä tietoa siitä, että hänen näkemänsä kohde on lato? Perustele vastauksesi.
-          </e:localization>
           <e:localization lang="sv-FI">
             Henri kör en bit vidare och kommer till ett område med åkrar där det bland riktiga lador finns kulisser i
             papp som föreställer lador. De är så naturtrogna att de skulle kunna lura vem som helst. Henri ser
@@ -549,18 +440,15 @@
             Har Henri kunskap om att det objekt han ser är en lada? Motivera ditt svar.
           </e:localization>
         </e:question-title>
+        <e:question-instruction>
+          <p>Kysymykseen on perusteltua vastata kieltävästi. Vaikka Henri on käyttänyt erinomaista nä- kökykyä toden uskomuksensa muodostamiseen, ei tämä riitä oikeuttamaan uskomusta ky- seisessä tapauksessa eikä uskomus täytä näin tiedon ehtoja. Näin on siksi, että Henri olisi uskonut näkemänsä kohteen olevan lato siinäkin tapauksessa, että hänen katseensa olisi kohdistunut kulissiin. Henrin tosi uskomus perustuu siis tehtävän tapauksessa hyvään on- neen. Vaikka tiedon klassisen määritelmän perustelu- tai oikeutusehdon voi nähdä pyrkivän rajaamaan tällaiset tapaukset tiedon ulkopuolelle, tätä määritelmää on kritisoitu siitä, että se epäonnistuu tässä rajauksessa. Kokelaan ei kuitenkaan edellytetä tuntevan tätä kritiikkiä (Gettier-paradokseja). Vaihtoehtoisesti kokelas voi tarkastella tapausta jonkin muun tiedon määritelmän valossa. Siinäkin tapauksessa keskeistä on pohtia, miten hyvä onni voi kumota toden uskomuksen oikeutuksen.</p>
+          <p>3 pisteen vastauksessa kokelas esittää vastaukselleen yhden osuvan perustelun.</p>
+          <p>5 pisteen vastauksessa kokelas perustelee vastaustaan johdonmukaisesti ja monipuolisesti ottamalla huomioon sekä tiedon määritelmän että hyvän onnen uskomuksen oikeutuksen kumoavana tekijänä.</p>
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="6" />
       </e:question>
       <e:question>
         <e:question-title>
-          <e:localization lang="fi-FI">
-            Henrin poika on sokea. Hän muodostaa ensimmäisen ladon kohdalla isänsä kertomuksen nojalla toden uskomuksen
-            siitä, että kyseessä on lato.
-            <br />
-            <br />
-            Onko Henrin pojalla tietoa siitä, että kyseessä on lato? Perustele vastauksesi ja pohdi yleisemminkin, millä
-            edellytyksillä tieto voi perustua silminnäkijän tai tiedollisen auktoriteetin sanaan.
-          </e:localization>
           <e:localization lang="sv-FI">
             Henris son är blind. Vid den första ladan bildar han utifrån sin pappas beskrivning den sanna uppfattningen
             om att det är fråga om en lada.
@@ -570,6 +458,14 @@
             vilka förutsättningar kunskap kan bygga på ett ögonvittnes eller en kunskapsmässig auktoritets ord.
           </e:localization>
         </e:question-title>
+        <e:question-instruction>
+          <p>Kysymykseen voi vastata perustellusti niin myöntävästi kuin kieltävästikin. Kokelas voi osit- tain nojata vastauksessaan kohdassa 6.1. antamaansa vastaukseen. Mikäli hän on perustel- lut, että Henrillä on tietoa, hän voi esittää, että myös Henrin pojalla on tietoa. Tälle luontevin peruste on se, että silminnäkijä tai tiedollinen auktoriteetti voi tietyin edellytyksin olla tiedon lähde. Vastauksessa tulee tällöin perustella, millä ehdoilla Henri kelpaa silminnäkijätodista- jaksi. Tässä tapauksessa ei riitä, että Henrillä on erinomainen näkökyky ja että hän kykenee sen varassa muodostamaan oikeutettuja tosia uskomuksia. On myös vaadittava, että hän välittää luotettavasti oikeutetut todet uskomuksensa pojalleen. Toisin sanoen Henrin pojalla ei pidä olla perusteita uskoa, että hänen isänsä voi johtaa häntä harhaan. Mikäli kokelas kat- soo, että tämän ehdon täyttyminen ei ole selvää kyseisessä tapauksessa, hän voi vastata kysymykseen kieltävästi. Mikäli kokelas on kohdassa 6.1. perustellut, että Henrillä ei ole tie- toa, hänen on johdonmukaista antaa kieltävä vastaus myös kohdassa 6.3. Sekin tulee perus- tella esimerkiksi huomauttamalla, ettei tosi uskomus voi muuttua tiedoksi, kun se välitetään henkilöltä toiselle.</p>
+          <p>Kokelaan tulee liittää perustelunsa yleisempään pohdintaan siitä, millä edellytyksillä tieto voi perustua silminnäkijän tai tiedollisen auktoriteetin sanaan. Tässä on perusteltua tarkastella silminnäkijöiden tai tiedollisen auktoriteetin luotettavuutta tiedon lähteenä. Voi todeta, että silminnäkijälausunnot eivät ole luotettavia, jos todistaja on ollut tapahtumapaikalla voimak- kaan tunnekuohun vallassa tai myöhemmät kokemukset ovat päässeet värittämään hänen muistojaan. Sitä vastoin esimerkiksi opettajat tiedollisina auktoriteetteina ovat yleensä luo- tettavia, koska he ovat alansa asiantuntijoita. Näin ollen on mahdollista sanoa, että opiskelija voi tietää opettajansa asiantuntemuksen nojalla, että kolmion kulmien summa on 180 astet- ta, vaikka hän ei itse osaisi todistaa lausetta. Tässäkin tapauksessa on kuitenkin perusteltua vaatia, että opiskelijalla ei ole perusteita uskoa opettajan erehtyneen tässä asiassa.</p>
+          <p>2 pisteen vastauksessa kokelas esittää vastaukselleen yhden osuvan perustelun tai tekee jonkin asiaankuuluvan huomion tiedon perustumisesta silminnäkijän tai tiedollisen auktori- teetin sanaan.</p>
+          <p>4 pisteen vastauksessa kokelas esittää vastaukselleen yhden osuvan perustelun ja tekee jon- kin asiaankuuluvan huomion tiedon perustumisesta silminnäkijän tai tiedollisen auktoritee- tin sanaan.</p>
+          <p>6 pisteen vastauksessa kokelas perustelee vastaustaan johdonmukaisesti ja osaa liittää pe- rustelunsa yleisempään pohdintaan siitä, millä edellytyksillä tieto voi perustua silminnäkijän tai tiedollisen auktoriteetin sanaan.</p>
+
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="8" />
       </e:question>
     </e:question>
@@ -594,116 +490,37 @@
       </e:question-title>
       <e:question-instruction>
         <e:localization lang="fi-FI">
-          Adipiscingin
-          <em>Lorem</em>
-          Exercitation irure dolor et est ut Lorem reprehenderit dolore aliquip enim do ullamco mollit.
-          Qui non cupidatat qui cupidatat. Aliquip proident aliqua consectetur quis ex proident incididunt
-          sunt. Laborum sit duis sit incididunt dolore dolore ullamco est sit. Ullamco id fugiat nulla
-          elit nulla Lorem quis pariatur minim cupidatat non laboris. tekstikatkelmassa
-          <e:attachment-link ref="7A" />
-          incididunt eiusmod commodo exercitation eiusmod culpa consequat irure nulla.
-        </e:localization>
-        <e:localization lang="sv-FI">
-          Adipiscingins
-          <em>Lorem</em>
-          Commodo culpa tempor adipisicing adipisicing. Aliqua sint amet do in in officia ea officia
-          tempor id ipsum laborum. Magna eu voluptate magna dolore cupidatat deserunt.
-          <e:attachment-link ref="7A" />
-          incididunt eiusmod commodo exercitation eiusmod culpa consequat irure nulla.
+          <p>LOPS15:ssa tehtävä liittyy kurssin Johdatus filosofiseen ajatteluun (FI1) kohtaan ”mitä filoso- fia on, filosofisten kysymysten ja filosofisen ajattelun luonne filosofian perinteessä ja ajan- kohtaisiin ongelmiin sovellettuna”. LOPS03:ssa on samassa kurssissa suurin piirtein vastaava kohta ”mitä filosofia on, filosofisten kysymysten luonne ja niiden suhde käytännöllisiin, tie- teellisiin ja uskonnollisiin kysymyksiin”.</p>
+          <p>Wittgensteinin Tractatuksessa esittämä käsitys filosofiasta liittyy loogiseen positivismiin eli loogiseen empirismiin. Suuntauksessa ajatellaan, että kaikki mielekkäät tosiasiaväitteet pitää voida todentaa havainnoin. Siksi luonnontieteen uskotaan kuvaavan koko todellisuutta. Filo- sofialla ei tuossa kuvauksessa ole juuri sijaa, ja sen tehtäväksi jää kielen kritiikki ja käsitteiden selventäminen. Filosofia on toimintaa, eikä se luo teorioita. Perinteinen metafysiikka osoite- taan mielettömäksi. Tehtävän johdanto kuitenkin osoittaa, että Wittgenstein uskoi filosofian onnistuvan tuottamaan ainakin joitakin tosia metafyysisiä väitteitä.</p>
+          <p>Wittgensteinin mukaan filosofia on kielen selventämistä ja sen kritiikkiä. Tämä on aineiston selkeä pääväite. Siihen liittyy kaksi muuta väitettä. Ensiksikin Wittgenstein toteaa, että useimmat filosofiset ongelmat ovat näennäisiä ja johtuvat vain kielen väärinkäytöstä. Toisek- si hän esittää, ettei metafyysisillä väitteillä ole merkitystä.</p>
         </e:localization>
       </e:question-instruction>
-      <e:external-material>
-        <e:attachment name="7A">
-          <e:attachment-title>
-            <e:localization lang="fi-FI">Tekstikatkelma: Adipiscing, Lorem
-            </e:localization>
-            <e:localization lang="sv-FI">Textutdrag: Adipiscing, Lorem
-            </e:localization>
-          </e:attachment-title>
-
-          <e:localization lang="fi-FI">
-            <p>Minim velit mollit consectetur culpa reprehenderit aliquip esse quis non ullamco fugiat amet.
-              Eiusmod cillum mollit adipisicing duis. Eu ut ad magna labore laboris laborum
-              exercitation aliquip cillum. Ex cupidatat laboris est mollit aliqua laborum deserunt
-              sit amet deserunt est occaecat veniam ullamco. Non labore velit deserunt aute cupidatat
-              esse aliquip est elit commodo.<br />
-              (Cillum ullamco commodo quis est aliquip officia fugiat veniam irure laboris occaecat elit
-              proident ut)<br />
-              Elit cupidatat non cupidatat nulla non consequat <i>nostrud</i> nulla.
-            </p>
-            <p>Ullamco amet sint id dolore mollit »Labore nulla adipisicing sint laboris deserunt». ­­– –</p>
-            <p>Veniam consectetur aliquip officia nisi sunt laborum enim. Excepteur incididunt exercitation
-              commodo excepteur dolor do tempor. Ipsum aliqua culpa adipisicing ipsum eiusmod dolore
-              fugiat. Id do consectetur pariatur reprehenderit ex pariatur magna consequat aliqua quis.
-            </p>
-            <p>Mollit sint magna aliquip in.</p>
-            <p>Dolore ullamco quis anim proident. Elit in quis culpa Lorem minim sint do commodo ex aute
-              dolore consectetur enim. Anim ex sunt consectetur non adipisicing sint labore sint proident
-               labore consequat. Qui irure aliquip aliqua proident. In labore aliquip aute voluptate
-               officia magna irure. Ipsum enim ipsum in fugiat quis consequat minim nulla aute.
-            </p>
-          </e:localization>
-          <e:localization lang="sv-FI">
-            <p>Minim velit mollit consectetur culpa reprehenderit aliquip esse quis non ullamco fugiat amet.
-            Eiusmod cillum mollit adipisicing duis. Eu ut ad magna labore laboris laborum
-            exercitation aliquip cillum. Ex cupidatat laboris est mollit aliqua laborum deserunt
-            sit amet deserunt est occaecat veniam ullamco. Non labore velit deserunt aute cupidatat
-            esse aliquip est elit commodo.<br />
-            (Cillum ullamco commodo quis est aliquip officia fugiat veniam irure laboris occaecat elit proident ut)<br />
-            Elit cupidatat non cupidatat nulla non consequat <i>nostrud</i> nulla.
-            </p>
-            <p>Ullamco amet sint id dolore mollit »Labore nulla adipisicing sint laboris deserunt». ­­– –</p>
-            <p>Dolore labore nostrud nisi Lorem reprehenderit nisi est commodo. Magna laborum commodo esse Lorem
-              nulla consectetur minim Lorem mollit adipisicing non mollit mollit. Dolore est aliquip veniam
-              qui cillum irure fugiat. Ipsum officia aute nulla Lorem ullamco incididunt do proident anim
-              consequat sint.
-            </p>
-            <p>Enim anim [occaec] ex labore qui et occaecat qui cillum consectetur.</p>
-            <p>Incididunt ut aute ut veniam ea velit esse fugiat elit voluptate irure cupidatat veniam.
-              Id cillum cupidatat labore ex non qui aliquip dolore aliquip dolor tempor eu. Fugiat Lorem
-              consequat id irure aute velit fugiat.
-            </p>
-          </e:localization>
-
-          <e:reference>
-            <e:author>Adipiscing</e:author>
-            <e:title>Lorem</e:title>
-            <e:publication-date>1921</e:publication-date>
-            <e:translator>
-              <e:localization lang="fi-FI">Veniam Ipsum</e:localization>
-              <e:localization lang="sv-FI">Fugiat Elit</e:localization>
-            </e:translator>
-            <e:translation-date lang="fi-FI">1970</e:translation-date>
-            <e:translation-date lang="sv-FI">1962</e:translation-date>
-          </e:reference>
-        </e:attachment>
-      </e:external-material>
       <e:question>
         <e:question-title>
-          <e:localization lang="fi-FI">
-            Kuvaile omin sanoin tekstikatkelmassa
-            <e:attachment-link ref="7A" />
-            esitettyä käsitystä filosofiasta ja arvioi käsityksen hyviä ja huonoja puolia.
-          </e:localization>
-          <e:localization lang="sv-FI">
-            Beskriv med egna ord den syn på filosofin som förs fram i textutdraget
-            <e:attachment-link ref="7A" />
-            och utvärdera de goda och de dåliga sidorna hos en sådan filosofisyn.
-          </e:localization>
         </e:question-title>
+        <e:question-instruction>
+          <p>Tekstikatkelman kuvaaminen omin sanoin saa olla pitkälti vain numeroidusta ja aforistisesta tyylistä luopumista. Tekstin muoto ja sisältö on kuitenkin melko vaativaa, ja kun tehtävänan- tona on asian kuvaaminen omin sanoin, on tavoitteena saada selville, onko kokelas ymmär- tänyt tekstin.</p>
+          <p>Wittgenstein pyrki Tractatuksessa raivaamaan tilaa tärkeäksi kokemalleen loogiselle ja käsit- teelliselle tutkimukselle. Loogisen empirismin kontekstissa tämä tila kuitenkin jää kapeaksi. Niinpä Wittgensteinin päätyy kuuluisaan tikasmetaforaansa: ”6.54 Lauseeni selventävät si- ten, että se, joka minut ymmärtää, huomaa lopulta lauseitteni olevan mielettömiä, noustu- aan niitä pitkin — niiden päällä — niiden yläpuolelle. (Hänen on niin sanoakseni heitettävä pois tikkaat kiivettyään niillä ylös.) Hänen on voitettava nämä lauseet, sen jälkeen hän näkee maailman oikein.” Ja tätä seuraavaan Tractatuksen vielä kuuluisampaan viimeiseen virkkee- seen: ”Mistä ei voi puhua, siitä on vaiettava.” Tätä voi pitää Wittgensteinin filosofiakäsityk- sen huonona puolena. Hän siis käänsi kokonaan selkänsä perinteiselle filosofialle, jonka tuot- tamien ideoiden varaan esimerkiksi demokraattiset yhteiskunnat on pitkälti rakennettu. Hy- viä puolia ovat esimerkiksi selkeys ja yhteensopivuus tietynlaisen positivistisen ja ehkä myös yleisemmin luonnontieteellisen maailmankuvan kanssa.</p>
+          <p>Vastaus kohtaan 7.1. on essee, jonka pisteityksessä kaikki yllä mainitun arviointitaulukon ulottuvuudet tulee ottaa huomioon.</p>
+          <p>4 pisteen vastauksessa kokelas onnistuu kuvaamaan joitain seikkoja tekstikatkelmassa esiin- tyvästä filosofiakäsityksestä sekä esittämään jonkinlaisen huomion, joka on Tractatuksen filosofiakäsityksen arvioinnin kannalta osuva.</p>
+          <p>8 pisteen vastauksessa kokelas kuvailee oikeansuuntaisesti tekstikatkelmassa esiintyviä väit- teitä filosofian luonteesta. Lisäksi hän arvioi melko osuvasti yhtä hyvää ja yhtä huonoa puol- ta. Vaihtoehtoisesti hän arvioi osuvasti vain toista puolta, mutta tuo esille useamman asi- aankuuluvan näkökohdan.</p>
+          <p>12 pisteen vastauksessa kokelas kuvailee tekstikatkelman sisällön oikein sekä arvioi moni- puolisesti ja johdonmukaisesti Tractatuksen filosofiakäsitystä.</p>
+          <p>Huippupisteiden vastauksessa kokelas osoittaa syvällistä ymmärtämystä Tractatuksen filoso- fiakäsityksestä sekä sen heikkouksista ja vahvuuksista.</p>
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="15" />
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">
-            Esitä jokin toinen käsitys filosofiasta ja vertaa sitä
-            <em>Loremissa</em>
-            esitettyyn.
-          </e:localization>
-          <e:localization lang="sv-FI">
-            Redogör för någon annan syn på filosofin och jämför den med den som förs fram i <em>Lorem</em>.
-          </e:localization>
-        </e:question-title>
+        <e:question-title></e:question-title>
+        <e:question-instruction>
+          <p>Wittgensteinin Tractatuksessa vastustamaa metafysiikkaa edusti käytännössä lähes koko Tractatusta edeltänyt filosofian perinne. Siten melkein mikä tahansa perinteinen filosofiakä- sitys, jonka mukaan käsitteellisen analyysin avulla tai muulla tavoin puhtaan ajattelun kei- noin voidaan aidosti tavoittaa todellisuus, muodostaa jyrkän kontrastin Wittgensteinin nä- kemyksen kanssa. Filosofiakäsityksiä voidaan luokitella myös monella muulla tavalla, esimer- kiksi sen mukaan, kuinka paljon ne korostavat filosofian harjoittamista. Tässä suhteessa Wittgensteinin käsityksellä filosofiasta nimenomaan aktiviteettina on mielenkiintoisia yhty- mäkohtia esimerkiksi antiikin filosofiaan.</p>
+          <p>Wittgensteinin käsityksen lähisukulainen on tavallaan John Locken käsitys filosofiasta. Siinä ajatellaan filosofian olevan ikään kuin tieteiden aputyöläinen. Todellisuus saadaan selville tieteellisellä tutkimuksella, ja filosofian tehtävä on raivata tämän tieteellisen tutkimuksen esteet pois. Erona on esimerkiksi, että Locke ei painota kieltä samalla tavoin kuin Wittgen- stein Tractatuksessa. Toinen sukulaiskäsitys on Wittgensteinin myöhemmässä filosofiassa korostuva terapeuttinen filosofiakäsitys, jonka tavoitteena on, että pystytään lopettamaan filosofointi ja ryntäily päin kielen rajoja. Tractatukseen verrattuna filosofian menetelmät ja käsitys filosofiasta näyttäytyvät esimerkiksi Filosofisissa tutkimuksissa monipuolisempina. Yhteistä on kuitenkin aktiviteetin korostaminen, kielen kritiikki ja pyrkimys filosofisten on- gelmien hävittämiseen.</p>
+          <p>Vastaus kohtaan 7.2. on essee, jonka pisteityksessä kaikki yllä mainitun arviointitaulukon ulottuvuudet tulee ottaa huomioon.</p>
+          <p>4 pisteen vastauksessa kokelas onnistuu esittelemään yhden vaihtoehtoisen käsityksen filo- sofiasta ja vähintään implisiittisesti vertaamaan sitä Tractatuksessa esitettyyn käsitykseen.</p>
+          <p>8 pisteen vastauksessa kokelas esittelee yhden vaihtoehtoisen käsityksen filosofiasta ja ver- taa sitä Tractatuksessa esitettyyn käsitykseen, esimerkiksi loogisen positivismin metafysiikan kritiikkiin tai tieto-oppiin, kielen kritiikkiin tai ajatukseen filosofiasta toimintana.</p>
+          <p>12 pisteen vastauksessa kokelas esittää johdonmukaisesti ja monipuolisesti yhden vaihtoeh- toisen käsityksen filosofiasta ja vertaa sitä Tractatuksessa esitettyyn käsitykseen useiden ulottuvuuksien osalta.</p>
+          <p>Huippupisteiden vastaukselle on tyypillistä filosofian perinteen tuntemus ja filosofisesti olennaisten seikkojen analysointi ja arviointi filosofiakäsityksissä.</p>
+
+        </e:question-instruction>
         <e:text-answer type="rich-text" max-score="15" />
       </e:question>
     </e:question>

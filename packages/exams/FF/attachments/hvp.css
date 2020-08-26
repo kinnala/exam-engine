@@ -1,4 +1,6 @@
 .text-answer,
-.answer-toolbar {
+.answer-toolbar,
+.notification--inline,
+.e-exam .e-section:last-child {
   display: none !important;
 }

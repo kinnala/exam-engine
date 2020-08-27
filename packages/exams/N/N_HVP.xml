@@ -152,215 +152,81 @@
         <e:localization lang="fi-FI">Kuusi kolmiota </e:localization>
         <e:localization lang="sv-FI">Sex trianglar</e:localization>
       </e:question-title>
-      <e:question-instruction>
-        <e:localization lang="fi-FI">
-          <p>
-            Alla on esitetty kuusi kolmiota, joista on annettu joitakin tietoja. Tarkoituksena on ratkaista sivu <e:formula>x</e:formula> tai kulma <e:formula>\theta</e:formula>.
-          </p>
-          <p>
-            Valitse kunkin kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään sivun <e:formula>x</e:formula> pituus tai kulman <e:formula>\theta</e:formula> suuruus asteen tarkkuudella. Älä perustele tämän tehtävän vastauksia. Tässä tehtävässä ei voi käyttää kaavaeditoria. Kunkin vastauksen maksimipituus on 10 merkkiä.
-          </p>
-        </e:localization>
-        <e:localization lang="sv-FI">
-          <p>
-            Nedan är sex trianglar och någon information om dem givna. Avsikten är att bestämma sidan <e:formula>x</e:formula> eller vinkeln <e:formula>\theta</e:formula>.
-          </p>
-          <p>
-            Välj för varje triangel den mest lämpliga formeln och skriv i svarsfältet in längden på sidan <e:formula>x</e:formula> eller storleken på vinkeln <e:formula>\theta</e:formula> med en grads noggrannhet. Motivera inte svaren i denna uppgift. I denna uppgift kan du inte använda formeleditorn. Maximilängden för varje svar är 10 tecken.
-          </p>
-        </e:localization>
-      </e:question-instruction>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava.</e:localization>
-          <e:localization lang="sv-FI">Välj den mest lämpliga formeln för triangeln.</e:localization>
-        </e:question-title>
-        <e:attachment>
-          <e:attachment-title>Kuva 1</e:attachment-title>
-          <e:image src="2A.png"/>
-          <e:reference>
-            <e:author>
-              <e:localization lang="fi-FI">YTL</e:localization>
-              <e:localization lang="sv-FI">SEN</e:localization>
-            </e:author>
-          </e:reference>
-        </e:attachment>
+        <e:question-title/>
 
         <e:choice-answer ordering="fixed">
           <e:choice-answer-option score="1"><e:formula>a^2+b^2=c^2</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\alpha+\beta+\gamma=180^\circ</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\sin \alpha = \frac ac</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\cos \alpha = \frac bc</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\tan \alpha = \frac ab</e:formula></e:choice-answer-option>
         </e:choice-answer>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Kirjoita vastauskenttään sivun <e:formula>x</e:formula> pituus.</e:localization>
-          <e:localization lang="sv-FI">Skriv i svarsfältet in längden på sidan <e:formula>x</e:formula>.</e:localization>
-        </e:question-title>
+        <e:question-title/>
         <e:localization lang="fi-FI">
-          Kohdan 2.1. kolmiossa pätee sivun pituudelle <e:formula>x =</e:formula> <e:text-answer max-score="1"/> yksikköä.
-        </e:localization>
-        <e:localization lang="sv-FI">
-          I triangeln i fall 2.1. är sidans längd <e:formula>x =</e:formula> <e:text-answer max-score="1"/> längdenheter.
+          8
+           <e:text-answer max-score="1"/>
         </e:localization>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava.</e:localization>
-          <e:localization lang="sv-FI">Välj den mest lämpliga formeln för triangeln.</e:localization>
-        </e:question-title>
-        <e:attachment>
-          <e:attachment-title>Kuva 2</e:attachment-title>
-          <e:image src="2B.png"/>
-          <e:reference>
-            <e:author>
-              <e:localization lang="fi-FI">YTL</e:localization>
-              <e:localization lang="sv-FI">SEN</e:localization>
-            </e:author>
-          </e:reference>
-        </e:attachment>
+        <e:question-title/>
 
         <e:choice-answer ordering="fixed">
-          <e:choice-answer-option><e:formula>a^2+b^2=c^2</e:formula></e:choice-answer-option>
           <e:choice-answer-option score="1"><e:formula>\alpha+\beta+\gamma=180^\circ</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\sin \alpha = \frac ac</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\cos \alpha = \frac bc</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\tan \alpha = \frac ab</e:formula></e:choice-answer-option>
         </e:choice-answer>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Kirjoita vastauskenttään kulman <e:formula>\theta</e:formula> suuruus.</e:localization>
-          <e:localization lang="sv-FI">Skriv i svarsfältet in storleken på vinkeln <e:formula>\theta</e:formula>.</e:localization>
-        </e:question-title>
-        <e:localization lang="fi-FI">Kohdan 2.3. kolmiossa pätee kulman suuruudelle <e:formula>\theta =</e:formula> <e:text-answer max-score="1"/><e:formula>°</e:formula>.</e:localization>
-        <e:localization lang="sv-FI">I triangeln i fall 2.3. är vinkelns storlek <e:formula>\theta =</e:formula> <e:text-answer max-score="1"/><e:formula>°</e:formula>.</e:localization>
+        <e:question-title/>
+        <e:localization lang="fi-FI">
+          45
+          <e:text-answer max-score="1"/>
+        </e:localization>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava.</e:localization>
-          <e:localization lang="sv-FI">Välj den mest lämpliga formeln för triangeln.</e:localization>
-        </e:question-title>
-        <e:attachment>
-          <e:attachment-title>Kuva 3</e:attachment-title>
-          <e:image src="2C.png"/>
-          <e:reference>
-            <e:author>
-              <e:localization lang="fi-FI">YTL</e:localization>
-              <e:localization lang="sv-FI">SEN</e:localization>
-            </e:author>
-          </e:reference>
-        </e:attachment>
+        <e:question-title/>
         <e:choice-answer ordering="fixed">
-          <e:choice-answer-option><e:formula>a^2+b^2=c^2</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\alpha+\beta+\gamma=180^\circ</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\sin \alpha = \frac ac</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\cos \alpha = \frac bc</e:formula></e:choice-answer-option>
           <e:choice-answer-option score="1"><e:formula>\tan \alpha = \frac ab</e:formula></e:choice-answer-option>
         </e:choice-answer>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Kirjoita vastauskenttään kulman <e:formula>\theta</e:formula> suuruus asteen tarkkuudella.</e:localization>
-          <e:localization lang="sv-FI">Skriv i svarsfältet in storleken på vinkeln <e:formula>\theta</e:formula> med en grads noggrannhet.</e:localization>
-        </e:question-title>
-        <e:localization lang="fi-FI">Kohdan 2.5. kolmiossa pätee kulman suuruudelle <e:formula>\theta \approx</e:formula> <e:text-answer max-score="1"/><e:formula>°</e:formula>.</e:localization>
-        <e:localization lang="sv-FI">I triangeln i fall 2.5. är vinkelns storlek <e:formula>\theta \approx</e:formula> <e:text-answer max-score="1"/><e:formula>°</e:formula>.</e:localization>
+        <e:question-title/>
+        <e:localization lang="fi-FI">
+          56
+          <e:text-answer max-score="1"/>
+        </e:localization>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava.</e:localization>
-          <e:localization lang="sv-FI">Välj den mest lämpliga formeln för triangeln.</e:localization>
-        </e:question-title>
-        <e:attachment>
-          <e:attachment-title>Kuva 4</e:attachment-title>
-          <e:image src="2D.png"/>
-          <e:reference>
-            <e:author>
-              <e:localization lang="fi-FI">YTL</e:localization>
-              <e:localization lang="sv-FI">SEN</e:localization>
-            </e:author>
-          </e:reference>
-        </e:attachment>
+        <e:question-title/>
         <e:choice-answer ordering="fixed">
-          <e:choice-answer-option><e:formula>a^2+b^2=c^2</e:formula></e:choice-answer-option>
           <e:choice-answer-option score="1"><e:formula>\alpha+\beta+\gamma=180^\circ</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\sin \alpha = \frac ac</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\cos \alpha = \frac bc</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\tan \alpha = \frac ab</e:formula></e:choice-answer-option>
         </e:choice-answer>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Kirjoita vastauskenttään kulman <e:formula>\theta</e:formula> suuruus.</e:localization>
-          <e:localization lang="sv-FI">Skriv i svarsfältet in storleken på vinkeln <e:formula>\theta</e:formula>.</e:localization>
-        </e:question-title>
-        <e:localization lang="fi-FI">Kohdan 2.8. kolmiossa pätee kulman suuruudelle <e:formula>\theta =</e:formula> <e:text-answer max-score="1"/><e:formula>°</e:formula>.</e:localization>
-        <e:localization lang="sv-FI">I triangeln i fall 2.8. är vinkelns storlek <e:formula>\theta =</e:formula> <e:text-answer max-score="1"/><e:formula>°</e:formula>.</e:localization>
+        <e:question-title/>
+        <e:localization lang="fi-FI">
+          30
+          <e:text-answer max-score="1"/>
+        </e:localization>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava.</e:localization>
-          <e:localization lang="sv-FI">Välj den mest lämpliga formeln för triangeln.</e:localization>
-        </e:question-title>
-        <e:attachment>
-          <e:attachment-title>Kuva 5</e:attachment-title>
-          <e:image src="2E.png"/>
-          <e:reference>
-            <e:author>
-              <e:localization lang="fi-FI">YTL</e:localization>
-              <e:localization lang="sv-FI">SEN</e:localization>
-            </e:author>
-          </e:reference>
-        </e:attachment>
+        <e:question-title/>
         <e:choice-answer ordering="fixed">
-          <e:choice-answer-option><e:formula>a^2+b^2=c^2</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\alpha+\beta+\gamma=180^\circ</e:formula></e:choice-answer-option>
           <e:choice-answer-option score="1"><e:formula>\sin \alpha = \frac ac</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\cos \alpha = \frac bc</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\tan \alpha = \frac ab</e:formula></e:choice-answer-option>
         </e:choice-answer>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Kirjoita vastauskenttään sivun <e:formula>x</e:formula> pituus.</e:localization>
-          <e:localization lang="sv-FI">Skriv i svarsfältet in längden på sidan <e:formula>x</e:formula>.</e:localization>
-        </e:question-title>
-        <e:localization lang="fi-FI">Kohdan 2.9. kolmiossa pätee sivun pituudelle <e:formula>x =</e:formula> <e:text-answer max-score="1"/> yksikköä.</e:localization>
-        <e:localization lang="sv-FI">I triangeln i fall 2.9. är sidans längd <e:formula>x =</e:formula> <e:text-answer max-score="1"/> längdenheter.</e:localization>
+        <e:question-title/>
+        10
+        <e:text-answer max-score="1"/>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava.</e:localization>
-          <e:localization lang="sv-FI">Välj den mest lämpliga formeln för triangeln.</e:localization>
-        </e:question-title>
-        <e:attachment>
-          <e:attachment-title>Kuva 6</e:attachment-title>
-          <e:image src="2F.png"/>
-          <e:reference>
-            <e:author>
-              <e:localization lang="fi-FI">YTL</e:localization>
-              <e:localization lang="sv-FI">SEN</e:localization>
-            </e:author>
-          </e:reference>
-        </e:attachment>
+        <e:question-title/>
         <e:choice-answer ordering="fixed">
-          <e:choice-answer-option><e:formula>a^2+b^2=c^2</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\alpha+\beta+\gamma=180^\circ</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\sin \alpha = \frac ac</e:formula></e:choice-answer-option>
           <e:choice-answer-option score="1"><e:formula>\cos \alpha = \frac bc</e:formula></e:choice-answer-option>
-          <e:choice-answer-option><e:formula>\tan \alpha = \frac ab</e:formula></e:choice-answer-option>
         </e:choice-answer>
       </e:question>
       <e:question>
-        <e:question-title>
-          <e:localization lang="fi-FI">Kirjoita vastauskenttään kulman <e:formula>\theta</e:formula> suuruus asteen tarkkuudella.</e:localization>
-          <e:localization lang="sv-FI">Skriv i svarsfältet in storleken på vinkeln <e:formula>\theta</e:formula> med en grads noggrannhet.</e:localization>
-        </e:question-title>
-        <e:localization lang="fi-FI">Kohdan 2.11. kolmiossa pätee kulman suuruudelle <e:formula>\theta \approx</e:formula> <e:text-answer max-score="1"/><e:formula>°</e:formula>.</e:localization>
-        <e:localization lang="sv-FI">I triangeln i fall 2.11. är vinkelns storlek <e:formula>\theta \approx</e:formula> <e:text-answer max-score="1"/><e:formula>°</e:formula>.</e:localization>
+        <e:question-title/>
+        54
+        <e:text-answer max-score="1"/>
       </e:question>
     </e:question>
     <e:question>
@@ -393,17 +259,8 @@
             <td>-1</td>
           </tr>
         </table>
-
-        <p><e:formula>y = x + 3</e:formula> / perustelut (kulmakerroin+piste tai 2 pistettä <span class="e-score e-nowrap">2 + 1</span></p>
-        <p>Jos edellisellä rivillä puuttuu <e:formula>y =, x-</e:formula>kerroin tai vakio on väärin, niin jokaisesta <span class="e-score e-nowrap">-1</span></p>
-        <p>Sijoittamalla paraabelin yhtälöön <e:formula>(y = 4x^2)</e:formula> TAI yhtälöpari <e:formula>{y= x+3,y=4x^2} / x+3=4x^2</e:formula>
-          <span class="e-score e-nowrap">1 + 1</span></p>
-        <p>Ratkaistaan <e:formula>4x^2-x-3=0:</e:formula><br/>
-          <e:formula>x=\frac{1}{2\cdot4}\left(1\pm\sqrt{1-4\cdot4\cdot\left(-3\right)}\right)\ </e:formula> / valitaan - merkki / <e:formula>x=-\frac{3}{4}</e:formula><br/>
-          <e:formula>y=\frac{9}{4}</e:formula> / leikkauspiste on <e:formula>(-\frac{3}{4},\frac{9}{4})</e:formula> TAI <e:formula>(-0,75;2,25)</e:formula>
-          <span class="e-score e-nowrap">1 + 1</span></p>
-        <p>Vastaus sieventämättä <span class="e-score e-nowrap">-1</span></p>
       </e:question-instruction>
+      <e:text-answer type="rich-text" max-score="12"/>
     </e:question>
 
     <e:question>
@@ -412,56 +269,64 @@
         <e:localization lang="sv-FI">Siffertrick</e:localization>
       </e:question-title>
       <e:question-instruction>
-        <e:localization lang="fi-FI">
-          <p>
-            Riikka on kehittänyt seuraavan numerotempun ja testaa sitä serkullaan Almalla. Alma on syntynyt 1.2.2000. Riikka esittää Almalle seuraavat askeleet:
-          </p>
-          <ol class="e-list-lower-alpha">
-            <li>Valitse luku väliltä <e:formula>1–9</e:formula>.</li>
-            <li>Kerro valitsemasi luku luvulla <e:formula>2</e:formula>.</li>
-            <li>Lisää saamaasi lukuun <e:formula>5</e:formula>.</li>
-            <li>Kerro nyt saamasi luku luvulla <e:formula>50</e:formula>.</li>
-            <li>
-              <ul>
-                <li>Jos olet jo viettänyt syntymäpäivääsi tänä vuonna, lisää lukuusi luku <e:formula>1769</e:formula>.</li>
-                <li>Jos et ole vielä viettänyt syntymäpäivääsi tänä vuonna, lisää lukuusi luku <e:formula>1768</e:formula>.</li>
-              </ul>
-            </li>
-            <li>Vähennä nyt tuloksesta syntymävuotesi.</li>
-            <li>Kerro, minkä tuloksen olet saanut.</li>
-          </ol>
-          <p>
-            Kun Alma vastaa <e:formula>319</e:formula>, niin Riikka tietää kertoa, että Alma on <e:formula>19</e:formula>-vuotias ja että hän valitsi alussa luvun <e:formula>3</e:formula>.
-          </p>
-          <p>
-            Selitä matemaattisesti, miksi Riikan numerotemppu toimi Almalle, ja miksei se toimi Alman isoisoäidille, joka on yli <e:formula>100</e:formula>-vuotias.
-          </p>
-        </e:localization>
-        <e:localization lang="sv-FI">
-          <p>
-            Erika har utvecklat följande siffertrick och testar tricket på sin kusin Alma. Alma är född 1.2.2000. Erika presenterar följande steg för Alma:
-          </p>
-          <ol class="e-list-lower-alpha">
-            <li>Välj ett tal i intervallet <e:formula>1–9</e:formula>.</li>
-            <li>Multiplicera det tal som du valt med talet <e:formula>2</e:formula>.</li>
-            <li>Addera talet du får med talet <e:formula>5</e:formula>.</li>
-            <li>Multiplicera nu det tal du får med talet <e:formula>50</e:formula>.</li>
-            <li>
-              <ul>
-                <li>Lägg talet <e:formula>1769</e:formula> till ditt tal om du redan haft din födelsedag det här året.</li>
-                <li>Lägg talet <e:formula>1768</e:formula> till ditt tal om du inte ännu har haft din födelsedag det här året.</li>
-              </ul>
-            </li>
-            <li>Subtrahera ditt födelseår från resultatet.</li>
-            <li>Berätta vilket resultat du fått.</li>
-          </ol>
-          <p>
-            Då Alma svarar <e:formula>319</e:formula> vet Erika berätta att Alma är <e:formula>19</e:formula> år gammal och att hon i början valde talet <e:formula>3</e:formula>.
-          </p>
-          <p>
-            Förklara matematiskt varför Erikas siffertrick fungerar på Alma, och varför det inte fungerar på Almas gammelmormor som är över <e:formula>100</e:formula> år gammal.
-          </p>
-        </e:localization>
+        <table class="e-table e-width-full">
+<tr>
+  <td>Laskettu Alman tapauksessa, että tulee 319 TAI jokin toinen esimerkki ali 100- vuotiaasta
+    </td>
+  <td>(2)</td>
+</tr>
+        <tr>
+          <td>• Laskettu yksi esimerkki yli 100-vuotiaasta</td>
+          <td>(2)</td>
+        </tr>
+        <tr>
+          <td>Sanallinen johtopäätös (että tulos on muotoa 100x + y) ja siten toimii vain alle 100-vuotiaille</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>• Tarkasteltu esimerkeissä tai algebrallisesti erikseen tapauksia, joissa syntymä- päivä on jo ollut ja että syntymäpäivä ei ole vielä ollut</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>        Algebrallinen perustelu<br/>
+            Merkitään alkuperäistä valittua lukua muuttujalla x ja henkilön ikää muuttujalla y. Muodostetaan algebrallinen lauseke eri kohtien ohjeiden mukaisesti:<br/>
+          </td>
+          <td/>
+        </tr>
+        <tr>
+          <td>(b) 2x</td>
+          <td>(1)</td>
+        </tr>
+        <tr>
+          <td>(c) 2x+5</td>
+          <td>(1)</td>
+        </tr>
+        <tr>
+          <td>(d) 100x + 250</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>(e) 100x + 2018 + j, missä j on 0 (tapaus ii) tai 1 (tapaus i).</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Syntymävuosi riippuu iästä y ja siitä, onko tänä vuonna jo ollut syntymäpäivä. Syntymävuosi on 2018 − y + j. Tapausten i ja ii tarkastelun voi tehdä myös ilman ” j ”-muuttujaa.</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>(f) 100x + y (tästä jatkuu yllä mainittuun sanalliseen perusteluun)</td>
+          <td/>
+        </tr>
+        <tr>
+          <td>Algebrallinen päättely ilman sen tarkastelua, onko syntymäpäivä ollut vai tulossa</td>
+          <td>max 10</td>
+        </tr>
+          <tr>
+          <td>Jos on laskenut kohtien (a)–(d) tulokset kaikilla luvun valinnoilla (350, 450, . . . , 1150), näistä kohdista (Huom.! Voi olla osa myös täydellistä ratkaisua, jolloin täydet pisteet.)</td>
+            <td>1</td>
+        </tr>
+        </table>
+
       </e:question-instruction>
       <e:text-answer type="rich-text" max-score="12"/>
     </e:question>

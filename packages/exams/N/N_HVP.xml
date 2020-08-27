@@ -2,7 +2,7 @@
 <e:exam xmlns:e="http://ylioppilastutkinto.fi/exam.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns="http://www.w3.org/1999/xhtml"
         xsi:schemaLocation="http://ylioppilastutkinto.fi/exam.xsd https://abitti.dev/schema/exam.xsd"
-        exam-schema-version="0.1" date="2019-09-24" exam-code="N" max-answers="10">
+        exam-schema-version="0.1" date="2019-09-24" exam-code="N" max-answers="10" exam-stylesheet="hvp.css">
   <e:languages>
     <e:language>fi-FI</e:language>
     <e:language>sv-FI</e:language>
@@ -11,15 +11,11 @@
     <e:localization lang="fi-FI">
       <h2>Hyvän vastauksen piirteitä</h2>
       <p>Lopullisista  hyvän  vastauksen  piirteistä  ilmenevät  perusteet,  joiden  mukaan  koesuorituksen  lo-pullinen arvostelu on suoritettu. Tieto siitä, miten arvosteluperusteita on sovellettu kokelaan koe-suoritukseen, muodostuu kokelaan koesuorituksestaan saamista pisteistä, lopullisista hyvän vas-tauksen piirteistä ja lautakunnan määräyksissä ja ohjeissa annetuista arvostelua koskevista mää-räyksistä. Lopulliset hyvän vastauksen piirteet eivät välttämättä sisällä ja kuvaa tehtävien kaikkia hyväksyttyjä vastausvaihtoehtoja tai hyväksytyn vastauksen kaikkia hyväksyttyjä yksityiskohtia. Koesuorituksessa  mahdollisesti  olevat  arvostelumerkinnät  katsotaan  muistiinpanoluonteisiksi,  eivätkä  ne  tai  niiden  puuttuminen  näin  ollen  suoraan  kerro  arvosteluperusteiden  soveltamisesta  koesuoritukseen</p>
-
-
       <p>Hyvästä suorituksesta näkyy, miten vastaukseen on päädytty. Ratkaisussa on oltava tarvittavat laskut tai muut riittävät perustelut sekä lopputulos. Arvioinnissa kiinnitetään huomiota kokonaisuuteen, ja ratkaisu pyritään arvioimaan kolmiosaisesti: alku, välivaiheet ja lopputulos. Laskuvirheet, jotka eivät olennaisesti  muuta  tehtävän  luonnetta,  eivät  alenna  pistemäärää  merkittävästi.  Sen  sijaan  tehtävän  luonnetta muuttavat lasku- ja mallinnusvirheet saattavat alentaa pistemäärää huomattavasti.</p>
       <p>Laskin  on  kokeen  apuväline,  jonka  rooli  arvioidaan  tehtäväkohtaisesti.  Jos  ratkaisussa  on  käytetty  symbolista laskinta, sen on käytävä ilmi suorituksesta. Analysointia vaativien tehtävien ratkaisemi-sessa  pelkkä  laskimella  saatu  vastaus  ei  riitä  ilman  muita  perusteluja.  Sen  sijaan  laskimesta  saatu  tulos yleensä riittää rutiinitehtävissä ja laajempien tehtävien rutiiniosissa. Tällaisia ovat esimerkiksi lausekkeiden muokkaaminen, yhtälöiden ratkaiseminen sekä funktioiden derivointi ja integrointi.</p>
-
       <h2>Miten pisteytysohjeita luetaan</h2>
       <ul>
         <li>Ne kohdat, joissa pitää olla tehty oikea asia oikealle objektille, on merkittytällä värillä. Tällöinratkaisussa pitää siis olla sama luku/lauseke/tms. Tällä merkinnällä ei ole vaikutusta muoto-seikkoihin ja sieventämiseen tai tarkkuuteen, vaan niihin pätee samat säännöt kuin muutenkin.Muissa  kohdissa  pisteet  saa  myös,  kun  tekee  oikean  asian  oikein,  mahdollisesti  virheelliselle,mutta oikean tyyppiselle objektille (esim. aiempi virhe siirtyy eteenpäin).</li><li>Rivin useat pisteet on erotettu /-merkillä. Epäselvissä tapauksissa on suluissa eritelty, mistäosasta saa mitäkin pisteitä.</li><li>Erittelyä ei ole, jos rivillä on saman verran laskuja kuin pisteitä, tällöin yksi piste laskua kohden.</li><li>Jos rivillä on yksi lasku ja siihen liittyvä sanallinen perustelu, niin puolet pisteistä (pyöristettynäylös) saa laskusta ja loput perusteluista.</li><li>Jos  rivillä  on  vain  yksi  lasku  tai  kaava  ja  useampi  piste,  saa  osapisteitä  riittävän  hyvästäyrittämisestä (esim. derivaatan laskeminen osittain oikein).</li><li>Rivillä suluissa oleva lasku tai perustelu on lisätietoa, eikä sitä vaadita.</li></ul>
-
       <p>Seuraavat vähennykset ovat tehtäväkohtaiseen pisteohjeeseen toissijaisia. Yhteen kohtaan voi so-veltaa useaa vähennystä, mutta ansaittuja pisteitä ei voi menettää.</p>
       <ul><li>Vastaus oikein, muttei pyydetyssä muodossa (esim. tarkkuus, yksikkö)−1p.</li><li>Vastaus sieventämättä loppuun asti sievennystehtävässä (esim.e1,ln(e)tai40)−2p.</li><li>Vastaus sieventämättä muussa tehtävässä (esim.e1,ln(e)tai40)−1p.</li><li>Ilmeiset  näppäilyvirheet  esityksessä  (esim.x=2,y04),  tai  näppäilyvirheet,  jotka  korjataanheti seuraavalla rivillä−0p.</li><li>Vastauksessa kopiointivirhe−1p.</li><li>Välipyöristyksessä ei yhtä enemmän merkitseviä numeroita kuin vastauksessa−1p.</li></ul>
       <p>Seuraavat vähennykset ovat tehtäväkohtaiseen pisteohjeeseen toissijaisia. Yhteen kohtaan voi soveltaauseaa vähennystä, mutta kutakin korkeintaan kerran.</p>
@@ -72,18 +68,6 @@
             <e:localization lang="fi-FI">aritmeettinen</e:localization>
             <e:localization lang="sv-FI">aritmetisk</e:localization>
           </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">geometrinen</e:localization>
-            <e:localization lang="sv-FI">geometrisk</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">kumpaakin</e:localization>
-            <e:localization lang="sv-FI">både och</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">ei kumpaakaan</e:localization>
-            <e:localization lang="sv-FI">varkendera</e:localization>
-          </e:dropdown-answer-option>
         </e:dropdown-answer>
       </e:question>
       <e:question>
@@ -95,18 +79,6 @@
           <e:formula>b_n=n\cdot 3^n</e:formula>
         </p>
         <e:dropdown-answer ordering="fixed">
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">aritmeettinen</e:localization>
-            <e:localization lang="sv-FI">aritmetisk</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">geometrinen</e:localization>
-            <e:localization lang="sv-FI">geometrisk</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">kumpaakin</e:localization>
-            <e:localization lang="sv-FI">både och</e:localization>
-          </e:dropdown-answer-option>
           <e:dropdown-answer-option score="2">
             <e:localization lang="fi-FI">ei kumpaakaan</e:localization>
             <e:localization lang="sv-FI">varkendera</e:localization>
@@ -122,21 +94,9 @@
           <e:formula>c_n=7^{n+1}</e:formula>
         </p>
         <e:dropdown-answer ordering="fixed">
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">aritmeettinen</e:localization>
-            <e:localization lang="sv-FI">aritmetisk</e:localization>
-          </e:dropdown-answer-option>
           <e:dropdown-answer-option score="2">
             <e:localization lang="fi-FI">geometrinen</e:localization>
             <e:localization lang="sv-FI">geometrisk</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">kumpaakin</e:localization>
-            <e:localization lang="sv-FI">både och</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">ei kumpaakaan</e:localization>
-            <e:localization lang="sv-FI">varkendera</e:localization>
           </e:dropdown-answer-option>
         </e:dropdown-answer>
       </e:question>
@@ -149,21 +109,9 @@
           <e:formula>d_n=5</e:formula>
         </p>
         <e:dropdown-answer ordering="fixed">
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">aritmeettinen</e:localization>
-            <e:localization lang="sv-FI">aritmetisk</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">geometrinen</e:localization>
-            <e:localization lang="sv-FI">geometrisk</e:localization>
-          </e:dropdown-answer-option>
           <e:dropdown-answer-option score="2">
             <e:localization lang="fi-FI">kumpaakin</e:localization>
             <e:localization lang="sv-FI">både och</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">ei kumpaakaan</e:localization>
-            <e:localization lang="sv-FI">varkendera</e:localization>
           </e:dropdown-answer-option>
         </e:dropdown-answer>
       </e:question>
@@ -176,18 +124,7 @@
           <e:formula>e_n=2019-1/n</e:formula>
         </p>
         <e:dropdown-answer ordering="fixed">
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">aritmeettinen</e:localization>
-            <e:localization lang="sv-FI">aritmetisk</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">geometrinen</e:localization>
-            <e:localization lang="sv-FI">geometrisk</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">kumpaakin</e:localization>
-            <e:localization lang="sv-FI">både och</e:localization>
-          </e:dropdown-answer-option>
+
           <e:dropdown-answer-option score="2">
             <e:localization lang="fi-FI">ei kumpaakaan</e:localization>
             <e:localization lang="sv-FI">varkendera</e:localization>
@@ -206,18 +143,6 @@
           <e:dropdown-answer-option score="2">
             <e:localization lang="fi-FI">aritmeettinen</e:localization>
             <e:localization lang="sv-FI">aritmetisk</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">geometrinen</e:localization>
-            <e:localization lang="sv-FI">geometrisk</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">kumpaakin</e:localization>
-            <e:localization lang="sv-FI">både och</e:localization>
-          </e:dropdown-answer-option>
-          <e:dropdown-answer-option>
-            <e:localization lang="fi-FI">ei kumpaakaan</e:localization>
-            <e:localization lang="sv-FI">varkendera</e:localization>
           </e:dropdown-answer-option>
         </e:dropdown-answer>
       </e:question>
